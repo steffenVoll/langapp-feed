@@ -1,0 +1,21 @@
+{
+ "format": 1,
+ "briefs": [
+  {
+   "id": "brief-2026-11-15-standard",
+   "path": "books/brief-2026-11-15-standard.json"
+  },
+  {
+   "id": "brief-2026-11-15-simple",
+   "path": "books/brief-2026-11-15-simple.json"
+  },
+  {
+   "id": "brief-2026-11-14-standard",
+   "path": "books/brief-2026-11-14-standard.json"
+  },
+  {
+   "id": "brief-2026-11-14-simple",
+   "path": "books/brief-2026-11-14-simple.json"
+  }
+ ]
+}

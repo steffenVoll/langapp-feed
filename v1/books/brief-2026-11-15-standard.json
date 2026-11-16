@@ -1,0 +1,497 @@
+{
+  "id": "brief-2026-11-15-standard",
+  "title": {
+    "en": "Good news, 15 November",
+    "es": "Buenas noticias, 15 de noviembre",
+    "fr": "Bonnes nouvelles, 15 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Brown Bear Population in Spain Doubles With Incredible Increase of its Breeding Range (Good News Network, 11 November 2026, from a study in Conservation Science and Practice); World-First Bone Marrow Transplant Successfully Treats Non-Malignant Disease (Good News Network, 15 November 2026, from an announcement by Ossium Health); They Became Pen Pals as Teens, Now 32 Years Later They're Happily Married (Good News Network, 15 November 2026, from the agency Talk to the Press). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/; https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.12894; https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/; https://ossiumhealth.com/franciscan-health-and-ossium-health-perform-worlds-first-organ-donor-bone-marrow-transplant-for-non-malignant-disease/; https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/",
+  "readingLevel": "Intermediate",
+  "blurb": {
+    "en": "More bears in Spain, a new kind of bone marrow transplant, and two pen pals who fell in love.",
+    "es": "Más osos en España, un nuevo tipo de trasplante de médula ósea y dos amigos por carta que se enamoraron.",
+    "fr": "Plus d'ours en Espagne, une nouvelle greffe de moelle osseuse et deux correspondants tombés amoureux."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Saturday 15 November.",
+                "es": "del sábado 15 de noviembre.",
+                "fr": "du samedi 15 novembre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Today, more bears in Spain,",
+                "es": "Hoy, más osos en España,",
+                "fr": "Aujourd'hui, plus d'ours en Espagne,"
+              }
+            },
+            {
+              "text": {
+                "en": "a medical first",
+                "es": "una primicia médica",
+                "fr": "une première médicale"
+              }
+            },
+            {
+              "text": {
+                "en": "and a love story that began with letters.",
+                "es": "y una historia de amor que empezó con cartas.",
+                "fr": "et une histoire d'amour qui a commencé par des lettres."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Spain's Cantabrian brown bears have more than doubled.",
+                "es": "Los osos pardos cantábricos de España se han más que duplicado.",
+                "fr": "Les ours bruns cantabriques d'Espagne sont plus de deux fois plus nombreux."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The brown bear is Europe's largest carnivore,",
+                "es": "El oso pardo es el mayor carnívoro de Europa,",
+                "fr": "L'ours brun est le plus grand carnivore d'Europe,"
+              }
+            },
+            {
+              "text": {
+                "en": "and in northern Spain it came close to extinction.",
+                "es": "y en el norte de España estuvo a punto de extinguirse.",
+                "fr": "et dans le nord de l'Espagne, il a frôlé l'extinction."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In the early 2000s,",
+                "es": "A principios de los años 2000,",
+                "fr": "Au début des années 2000,"
+              }
+            },
+            {
+              "text": {
+                "en": "estimates were as low as 140.",
+                "es": "las estimaciones bajaban hasta unos 140.",
+                "fr": "les estimations descendaient à environ 140."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Today there are about 370.",
+                "es": "Hoy hay unos 370.",
+                "fr": "Aujourd'hui, il y en a environ 370."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Their range grew by 77 percent between 2013 and 2022,",
+                "es": "Su territorio creció un 77 % entre 2013 y 2022,",
+                "fr": "Leur territoire a augmenté de 77 % entre 2013 et 2022,"
+              }
+            },
+            {
+              "text": {
+                "en": "and the area where they breed",
+                "es": "y la zona donde se reproducen",
+                "fr": "et la zone où ils se reproduisent"
+              }
+            },
+            {
+              "text": {
+                "en": "grew by about 30 percent.",
+                "es": "aumentó alrededor de un 30 %.",
+                "fr": "s'est agrandie d'environ 30 %."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "National parks such as Somiedo and Redes",
+                "es": "Parques nacionales como Somiedo y Redes",
+                "fr": "Des parcs nationaux comme Somiedo et Redes"
+              }
+            },
+            {
+              "text": {
+                "en": "have protected more land,",
+                "es": "han protegido más terreno,",
+                "fr": "ont protégé davantage de terres,"
+              }
+            },
+            {
+              "text": {
+                "en": "and illegal killing brings heavy fines.",
+                "es": "y matar un oso ilegalmente se castiga con multas muy altas.",
+                "fr": "et l'abattage illégal coûte de lourdes amendes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Fewer people now live in the countryside,",
+                "es": "Además, ahora vive menos gente en el campo,",
+                "fr": "Moins de gens vivent aujourd'hui à la campagne,"
+              }
+            },
+            {
+              "text": {
+                "en": "which leaves the bears more room.",
+                "es": "lo que deja más espacio a los osos.",
+                "fr": "ce qui laisse plus de place aux ours."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A new kind of bone marrow transplant",
+                "es": "Un nuevo tipo de trasplante de médula ósea",
+                "fr": "Un nouveau type de greffe de moelle osseuse"
+              }
+            },
+            {
+              "text": {
+                "en": "has given a woman her health back.",
+                "es": "le ha devuelto la salud a una mujer.",
+                "fr": "a rendu la santé à une femme."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "For about ten years,",
+                "es": "Durante unos diez años,",
+                "fr": "Pendant environ dix ans,"
+              }
+            },
+            {
+              "text": {
+                "en": "the 40-year-old from the US Midwest had aplastic anaemia:",
+                "es": "esta mujer de 40 años, del Medio Oeste de Estados Unidos, tuvo anemia aplásica:",
+                "fr": "cette femme de 40 ans, du Midwest américain, a souffert d'anémie aplasique:"
+              }
+            },
+            {
+              "text": {
+                "en": "her body stopped making enough blood cells.",
+                "es": "su cuerpo dejó de fabricar suficientes células sanguíneas.",
+                "fr": "son corps ne fabriquait plus assez de cellules sanguines."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It became severe,",
+                "es": "Se volvió grave",
+                "fr": "Elle est devenue grave,"
+              }
+            },
+            {
+              "text": {
+                "en": "and her medicines stopped working.",
+                "es": "y sus medicamentos dejaron de funcionar.",
+                "fr": "et ses médicaments ont cessé d'agir."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her doctor at Franciscan Health, Dr Felix Mensah,",
+                "es": "Su médico en Franciscan Health, el doctor Felix Mensah,",
+                "fr": "Son médecin à Franciscan Health, le docteur Felix Mensah,"
+              }
+            },
+            {
+              "text": {
+                "en": "gave her marrow from a deceased organ donor,",
+                "es": "le dio médula de un donante de órganos fallecido,",
+                "fr": "lui a donné la moelle d'un donneur d'organes décédé,"
+              }
+            },
+            {
+              "text": {
+                "en": "stored by Ossium Health.",
+                "es": "guardada por la empresa Ossium Health.",
+                "fr": "conservée par l'entreprise Ossium Health."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Six months on, her blood counts are normal",
+                "es": "Seis meses después, sus análisis de sangre son normales",
+                "fr": "Six mois plus tard, ses analyses de sang sont normales"
+              }
+            },
+            {
+              "text": {
+                "en": "and she no longer needs transfusions.",
+                "es": "y ya no necesita transfusiones.",
+                "fr": "et elle n'a plus besoin de transfusions."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "As far as the hospital knows,",
+                "es": "Según el hospital, por lo que sabe,",
+                "fr": "À la connaissance de l'hôpital,"
+              }
+            },
+            {
+              "text": {
+                "en": "it is a world first",
+                "es": "es una primicia mundial",
+                "fr": "c'est une première mondiale"
+              }
+            },
+            {
+              "text": {
+                "en": "for a disease that is not cancer.",
+                "es": "para una enfermedad que no es un cáncer.",
+                "fr": "pour une maladie qui n'est pas un cancer."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Two teenagers who became pen pals on holiday",
+                "es": "Dos adolescentes que se hicieron amigos por carta en unas vacaciones",
+                "fr": "Deux ados devenus correspondants en vacances"
+              }
+            },
+            {
+              "text": {
+                "en": "are now happily married.",
+                "es": "ahora están felizmente casados.",
+                "fr": "sont aujourd'hui mariés et heureux."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In 1994, on a family holiday on the Greek island of Kos,",
+                "es": "En 1994, de vacaciones con su familia en la isla griega de Kos,",
+                "fr": "En 1994, en vacances en famille sur l'île grecque de Kos,"
+              }
+            },
+            {
+              "text": {
+                "en": "15-year-old Jodie met David McArdle from Newcastle.",
+                "es": "Jodie, de 15 años, conoció a David McArdle, de Newcastle.",
+                "fr": "Jodie, 15 ans, a rencontré David McArdle, de Newcastle."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They wrote about once a month for three years,",
+                "es": "Se escribieron cada mes, más o menos, durante tres años,",
+                "fr": "Ils se sont écrit environ une fois par mois pendant trois ans,"
+              }
+            },
+            {
+              "text": {
+                "en": "until David moved and they lost touch.",
+                "es": "hasta que David se mudó y perdieron el contacto.",
+                "fr": "jusqu'à ce que David déménage et qu'ils se perdent de vue."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "About twenty years later,",
+                "es": "Unos veinte años después,",
+                "fr": "Une vingtaine d'années plus tard,"
+              }
+            },
+            {
+              "text": {
+                "en": "Jodie sent a birthday message to his mother's phone.",
+                "es": "Jodie envió un mensaje de cumpleaños al teléfono de la madre de él.",
+                "fr": "Jodie a envoyé un message d'anniversaire sur le téléphone de sa mère."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "When David replied, Jodie was in tears.",
+                "es": "Cuando David contestó, Jodie se echó a llorar.",
+                "fr": "Quand David a répondu, Jodie était en larmes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "After three years together,",
+                "es": "Tras tres años juntos,",
+                "fr": "Après trois ans ensemble,"
+              }
+            },
+            {
+              "text": {
+                "en": "he proposed on the London Eye.",
+                "es": "le pidió matrimonio en el London Eye.",
+                "fr": "il l'a demandée en mariage sur le London Eye."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They live in Cardiff now,",
+                "es": "Ahora viven en Cardiff,",
+                "fr": "Ils vivent maintenant à Cardiff,"
+              }
+            },
+            {
+              "text": {
+                "en": "and every August they go back to Kos.",
+                "es": "y cada agosto vuelven a Kos.",
+                "fr": "et chaque mois d'août, ils retournent à Kos."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "That's all for this morning.",
+                "es": "Esto es todo por esta mañana.",
+                "fr": "C'est tout pour ce matin."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Enjoy your Saturday,",
+                "es": "Que disfrutes del sábado",
+                "fr": "Profitez bien de votre samedi,"
+              }
+            },
+            {
+              "text": {
+                "en": "and take care.",
+                "es": "y cuídate.",
+                "fr": "et prenez soin de vous."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

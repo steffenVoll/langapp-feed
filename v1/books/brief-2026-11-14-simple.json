@@ -1,0 +1,440 @@
+{
+  "id": "brief-2026-11-14-simple",
+  "title": {
+    "en": "Good news, 14 November",
+    "es": "Buenas noticias, 14 de noviembre",
+    "fr": "Bonnes nouvelles, 14 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Two of the 'Last Wild Ecosystems' Untouched by Humans Are Declared New Sanctuaries (Good News Network, 14 November 2026, from a study in Frontiers in Marine Science); For Centuries, Visitors Walked Right by 280 Unseen Ice Age Cave Paintings (Good News Network, 11 November 2026, from a study in Antiquity); Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs (Good News Network, 14 November 2026). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/; https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full; https://www.eurekalert.org/news-releases/1149998; https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/; https://www.cambridge.org/core/journals/antiquity/article/filling-gaps-the-palaeolithic-rock-art-of-the-cova-de-la-font-major-on-the-northeast-iberian-peninsula/B61327338FF78E966BEA56E2DA9CAEDB; https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "Two untouched coral atolls become a sanctuary, hidden Ice Age carvings turn up in a Spanish cave, and a Brighton couple cleans street signs.",
+    "es": "Dos atolones de coral casi intactos se convierten en santuario, aparecen grabados de la Edad de Hielo en una cueva española y una pareja de Brighton limpia señales de la calle.",
+    "fr": "Deux atolls coralliens presque intacts deviennent un sanctuaire, des gravures de l'ère glaciaire apparaissent dans une grotte espagnole et un couple de Brighton nettoie les panneaux de rue."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Friday 14 November.",
+                "es": "del viernes 14 de noviembre.",
+                "fr": "du vendredi 14 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Two wild islands in the Pacific",
+                "es": "Dos islas salvajes del Pacífico",
+                "fr": "Deux îles sauvages du Pacifique"
+              }
+            },
+            {
+              "text": {
+                "en": "are now protected.",
+                "es": "ahora están protegidas.",
+                "fr": "sont maintenant protégées."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They are called Bikar and Bokak.",
+                "es": "Se llaman Bikar y Bokak.",
+                "fr": "Elles s'appellent Bikar et Bokak."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They are atolls,",
+                "es": "Son atolones,",
+                "fr": "Ce sont des atolls,"
+              }
+            },
+            {
+              "text": {
+                "en": "rings of coral",
+                "es": "anillos de coral",
+                "fr": "des anneaux de corail"
+              }
+            },
+            {
+              "text": {
+                "en": "in the sea.",
+                "es": "en el mar.",
+                "fr": "dans la mer."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They are in the Marshall Islands.",
+                "es": "Están en las islas Marshall.",
+                "fr": "Elles se trouvent aux îles Marshall."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Now they are part",
+                "es": "Ahora forman parte",
+                "fr": "Elles font maintenant partie"
+              }
+            },
+            {
+              "text": {
+                "en": "of the country's first sea sanctuary.",
+                "es": "del primer santuario marino del país.",
+                "fr": "du premier sanctuaire marin du pays."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Scientists dived there",
+                "es": "Unos científicos bucearon allí",
+                "fr": "Des scientifiques y ont plongé"
+              }
+            },
+            {
+              "text": {
+                "en": "and used cameras",
+                "es": "y usaron cámaras",
+                "fr": "et ont utilisé des caméras"
+              }
+            },
+            {
+              "text": {
+                "en": "and a submarine.",
+                "es": "y un submarino.",
+                "fr": "et un sous-marin."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They found 266 kinds",
+                "es": "Encontraron 266 tipos",
+                "fr": "Ils ont trouvé 266 espèces"
+              }
+            },
+            {
+              "text": {
+                "en": "of reef fish.",
+                "es": "de peces de arrecife.",
+                "fr": "de poissons de récif."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "For centuries, visitors missed",
+                "es": "Durante siglos, los visitantes no vieron",
+                "fr": "Pendant des siècles, les visiteurs n'ont pas vu"
+              }
+            },
+            {
+              "text": {
+                "en": "280 hidden carvings",
+                "es": "280 grabados ocultos",
+                "fr": "280 gravures cachées"
+              }
+            },
+            {
+              "text": {
+                "en": "in a Spanish cave.",
+                "es": "en una cueva española.",
+                "fr": "dans une grotte espagnole."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They are from the Ice Age,",
+                "es": "Son de la Edad de Hielo,",
+                "fr": "Elles datent de l'ère glaciaire,"
+              }
+            },
+            {
+              "text": {
+                "en": "long, long ago.",
+                "es": "de hace muchísimo tiempo.",
+                "fr": "il y a très longtemps."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Carvings are pictures",
+                "es": "Los grabados son dibujos",
+                "fr": "Les gravures sont des dessins"
+              }
+            },
+            {
+              "text": {
+                "en": "cut into the rock.",
+                "es": "tallados en la roca.",
+                "fr": "taillés dans la roche."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "There are 55 animals,",
+                "es": "Hay 55 animales,",
+                "fr": "On y voit 55 animaux,"
+              }
+            },
+            {
+              "text": {
+                "en": "like horses, bears and deer.",
+                "es": "como caballos, osos y ciervos.",
+                "fr": "comme des chevaux, des ours et des cerfs."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "But nobody saw the carvings.",
+                "es": "Pero nadie vio los grabados.",
+                "fr": "Mais personne n'a vu les gravures."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Some visitors even cut their names",
+                "es": "Algunos visitantes hasta grabaron sus nombres",
+                "fr": "Certains visiteurs ont même gravé leur nom"
+              }
+            },
+            {
+              "text": {
+                "en": "on top of them.",
+                "es": "encima de ellos.",
+                "fr": "par-dessus."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A couple in Brighton, England,",
+                "es": "Una pareja de Brighton, en Inglaterra,",
+                "fr": "Un couple de Brighton, en Angleterre,"
+              }
+            },
+            {
+              "text": {
+                "en": "cleans dirty street signs.",
+                "es": "limpia señales sucias de la calle.",
+                "fr": "nettoie des panneaux de rue sales."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Paul and Ruth are married.",
+                "es": "Paul y Ruth están casados.",
+                "fr": "Paul et Ruth sont mariés."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They both have autism and ADHD.",
+                "es": "Los dos tienen autismo y TDAH.",
+                "fr": "Tous les deux sont autistes et ont un TDAH."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Since September,",
+                "es": "Desde septiembre,",
+                "fr": "Depuis septembre,"
+              }
+            },
+            {
+              "text": {
+                "en": "they clean at least one sign",
+                "es": "limpian por lo menos una señal",
+                "fr": "ils nettoient au moins un panneau"
+              }
+            },
+            {
+              "text": {
+                "en": "every day.",
+                "es": "cada día.",
+                "fr": "par jour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Ruth says dirty signs",
+                "es": "Ruth dice que las señales sucias",
+                "fr": "Ruth dit que les panneaux sales"
+              }
+            },
+            {
+              "text": {
+                "en": "are hard to read,",
+                "es": "se leen mal,",
+                "fr": "sont difficiles à lire,"
+              }
+            },
+            {
+              "text": {
+                "en": "especially at night.",
+                "es": "sobre todo de noche.",
+                "fr": "surtout la nuit."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "One day, they hope",
+                "es": "Algún día, esperan",
+                "fr": "Un jour, ils espèrent"
+              }
+            },
+            {
+              "text": {
+                "en": "to clean signs",
+                "es": "limpiar señales",
+                "fr": "nettoyer des panneaux"
+              }
+            },
+            {
+              "text": {
+                "en": "all over the UK.",
+                "es": "por todo el Reino Unido.",
+                "fr": "dans tout le Royaume-Uni."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "That's all.",
+                "es": "Eso es todo.",
+                "fr": "C'est tout."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely weekend.",
+                "es": "Que pases un buen fin de semana.",
+                "fr": "Bon week-end."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

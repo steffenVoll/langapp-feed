@@ -1,0 +1,444 @@
+{
+  "id": "brief-2026-11-15-simple",
+  "title": {
+    "en": "Good news, 15 November",
+    "es": "Buenas noticias, 15 de noviembre",
+    "fr": "Bonnes nouvelles, 15 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Brown Bear Population in Spain Doubles With Incredible Increase of its Breeding Range (Good News Network, 11 November 2026, from a study in Conservation Science and Practice); World-First Bone Marrow Transplant Successfully Treats Non-Malignant Disease (Good News Network, 15 November 2026, from an announcement by Ossium Health); They Became Pen Pals as Teens, Now 32 Years Later They're Happily Married (Good News Network, 15 November 2026, from the agency Talk to the Press). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/; https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.12894; https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/; https://ossiumhealth.com/franciscan-health-and-ossium-health-perform-worlds-first-organ-donor-bone-marrow-transplant-for-non-malignant-disease/; https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "More bears in Spain, a new kind of bone marrow transplant, and two pen pals who fell in love.",
+    "es": "Más osos en España, un nuevo tipo de trasplante de médula ósea y dos amigos por carta que se enamoraron.",
+    "fr": "Plus d'ours en Espagne, une nouvelle greffe de moelle osseuse et deux correspondants tombés amoureux."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Saturday 15 November.",
+                "es": "del sábado 15 de noviembre.",
+                "fr": "du samedi 15 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Northern Spain has",
+                "es": "El norte de España tiene",
+                "fr": "Le nord de l'Espagne a"
+              }
+            },
+            {
+              "text": {
+                "en": "many more brown bears now.",
+                "es": "muchos más osos pardos ahora.",
+                "fr": "beaucoup plus d'ours bruns maintenant."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In the early 2000s,",
+                "es": "A principios de los años 2000,",
+                "fr": "Au début des années 2000,"
+              }
+            },
+            {
+              "text": {
+                "en": "there were only about 140.",
+                "es": "solo había unos 140.",
+                "fr": "il n'y en avait qu'environ 140."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Now there are about 370.",
+                "es": "Ahora hay unos 370.",
+                "fr": "Aujourd'hui, il y en a environ 370."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "That is more than double!",
+                "es": "¡Es más del doble!",
+                "fr": "C'est plus du double!"
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The area where they have babies",
+                "es": "La zona donde tienen crías",
+                "fr": "La zone où ils ont leurs petits"
+              }
+            },
+            {
+              "text": {
+                "en": "grew by about 30 percent.",
+                "es": "creció un 30 % más o menos.",
+                "fr": "a grandi d'environ 30 %."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Why?",
+                "es": "¿Por qué?",
+                "fr": "Pourquoi?"
+              }
+            },
+            {
+              "text": {
+                "en": "Parks protect their land.",
+                "es": "Los parques protegen sus tierras.",
+                "fr": "Des parcs protègent leurs terres."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "And fewer people live",
+                "es": "Y ahora vive menos gente",
+                "fr": "Et moins de gens vivent"
+              }
+            },
+            {
+              "text": {
+                "en": "in the countryside now.",
+                "es": "en el campo.",
+                "fr": "à la campagne maintenant."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A new transplant",
+                "es": "Un nuevo trasplante",
+                "fr": "Une nouvelle greffe"
+              }
+            },
+            {
+              "text": {
+                "en": "has helped a sick woman.",
+                "es": "ha ayudado a una mujer enferma.",
+                "fr": "a aidé une femme malade."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her body did not make",
+                "es": "Su cuerpo no fabricaba",
+                "fr": "Son corps ne fabriquait pas"
+              }
+            },
+            {
+              "text": {
+                "en": "enough blood.",
+                "es": "suficiente sangre.",
+                "fr": "assez de sang."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Bone marrow,",
+                "es": "La médula ósea,",
+                "fr": "La moelle osseuse,"
+              }
+            },
+            {
+              "text": {
+                "en": "the soft part inside our bones,",
+                "es": "la parte blanda dentro de los huesos,",
+                "fr": "la partie molle à l'intérieur des os,"
+              }
+            },
+            {
+              "text": {
+                "en": "makes blood.",
+                "es": "fabrica la sangre.",
+                "fr": "fabrique le sang."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Doctors gave her marrow",
+                "es": "Los médicos le dieron médula",
+                "fr": "Les médecins lui ont donné de la moelle"
+              }
+            },
+            {
+              "text": {
+                "en": "from a person who had died.",
+                "es": "de una persona que había muerto.",
+                "fr": "venant d'une personne décédée."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Six months later,",
+                "es": "Seis meses después,",
+                "fr": "Six mois plus tard,"
+              }
+            },
+            {
+              "text": {
+                "en": "her blood is normal.",
+                "es": "su sangre está normal.",
+                "fr": "son sang est normal."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her illness is not cancer,",
+                "es": "Su enfermedad no es un cáncer,",
+                "fr": "Sa maladie n'est pas un cancer,"
+              }
+            },
+            {
+              "text": {
+                "en": "and the hospital calls this a world first.",
+                "es": "y el hospital dice que es una primicia mundial.",
+                "fr": "et l'hôpital parle d'une première mondiale."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Two old pen pals",
+                "es": "Dos antiguos amigos por carta",
+                "fr": "Deux anciens correspondants"
+              }
+            },
+            {
+              "text": {
+                "en": "are now married.",
+                "es": "ahora están casados.",
+                "fr": "sont maintenant mariés."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Pen pals are friends",
+                "es": "Los amigos por carta son amigos",
+                "fr": "Les correspondants sont des amis"
+              }
+            },
+            {
+              "text": {
+                "en": "who write letters.",
+                "es": "que se escriben cartas.",
+                "fr": "qui s'écrivent des lettres."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In 1994, Jodie met David",
+                "es": "En 1994, Jodie conoció a David",
+                "fr": "En 1994, Jodie a rencontré David"
+              }
+            },
+            {
+              "text": {
+                "en": "on Kos, a Greek island.",
+                "es": "en Kos, una isla griega.",
+                "fr": "à Kos, une île grecque."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They wrote for three years,",
+                "es": "Se escribieron durante tres años",
+                "fr": "Ils se sont écrit pendant trois ans,"
+              }
+            },
+            {
+              "text": {
+                "en": "then lost touch.",
+                "es": "y luego perdieron el contacto.",
+                "fr": "puis ils se sont perdus de vue."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "About twenty years later,",
+                "es": "Unos veinte años después,",
+                "fr": "Une vingtaine d'années plus tard,"
+              }
+            },
+            {
+              "text": {
+                "en": "Jodie sent a birthday message",
+                "es": "Jodie envió un mensaje de cumpleaños",
+                "fr": "Jodie a envoyé un message d'anniversaire"
+              }
+            },
+            {
+              "text": {
+                "en": "to his mum's phone.",
+                "es": "al teléfono de la madre de él.",
+                "fr": "sur le téléphone de sa mère."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "David replied.",
+                "es": "David contestó.",
+                "fr": "David a répondu."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Now they live in Cardiff,",
+                "es": "Ahora viven en Cardiff,",
+                "fr": "Maintenant, ils vivent à Cardiff,"
+              }
+            },
+            {
+              "text": {
+                "en": "in Wales.",
+                "es": "en Gales.",
+                "fr": "au pays de Galles."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "That's all.",
+                "es": "Esto es todo.",
+                "fr": "C'est tout."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Saturday.",
+                "es": "Que pases un buen sábado.",
+                "fr": "Passez un bon samedi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
