@@ -3,27 +3,51 @@
  "briefs": [
   {
    "id": "brief-2026-11-16-standard",
-   "path": "books/brief-2026-11-16-standard.json"
+   "path": "books/brief-2026-11-16-standard.json",
+   "audio": [
+    "en",
+    "es"
+   ]
   },
   {
    "id": "brief-2026-11-16-simple",
-   "path": "books/brief-2026-11-16-simple.json"
+   "path": "books/brief-2026-11-16-simple.json",
+   "audio": [
+    "en",
+    "es"
+   ]
   },
   {
    "id": "brief-2026-11-15-standard",
-   "path": "books/brief-2026-11-15-standard.json"
+   "path": "books/brief-2026-11-15-standard.json",
+   "audio": [
+    "en",
+    "es"
+   ]
   },
   {
    "id": "brief-2026-11-15-simple",
-   "path": "books/brief-2026-11-15-simple.json"
+   "path": "books/brief-2026-11-15-simple.json",
+   "audio": [
+    "en",
+    "es"
+   ]
   },
   {
    "id": "brief-2026-11-14-standard",
-   "path": "books/brief-2026-11-14-standard.json"
+   "path": "books/brief-2026-11-14-standard.json",
+   "audio": [
+    "en",
+    "es"
+   ]
   },
   {
    "id": "brief-2026-11-14-simple",
-   "path": "books/brief-2026-11-14-simple.json"
+   "path": "books/brief-2026-11-14-simple.json",
+   "audio": [
+    "en",
+    "es"
+   ]
   }
  ]
 }
