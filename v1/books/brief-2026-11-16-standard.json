@@ -1,0 +1,532 @@
+{
+  "id": "brief-2026-11-16-standard",
+  "title": {
+    "en": "Good news, 16 November",
+    "es": "Buenas noticias, 16 de noviembre",
+    "fr": "Bonnes nouvelles, 16 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: 30% Drop in Levels of Forever Chemicals in England's Rivers, 49% in Fish (Good News Network, 16 November 2026, from Environment Agency tests reported by the BBC); Climbers Lug Endangered and Orphaned Seal Pup Up a Cliff to Safety (Good News Network, 16 November 2026, from reports by Keep Talking Greece and Animal Aid Kythira); Farmer Finds Unknown Seeds in His Attic and Grows an Ancient 'Miracle' Grain (Good News Network, 16 November 2026, first reported by Smithsonian Magazine). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/; https://www.bbc.com/news/articles/cmze75r55g3jo; https://www.goodnewsnetwork.org/climbers-lug-endangered-and-orphaned-seal-pup-up-a-cliff-to-safety/; https://www.keeptalkinggreece.com/2026/10/21/dramatic-rescue-of-newborn-orphaned-baby-seal-by-climbers-kythera/; https://www.animalaidkythira.com/; https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/; https://shop.molinograssi.it/products/miracolo-tipo-1",
+  "readingLevel": "Intermediate",
+  "blurb": {
+    "en": "Forever chemicals fall in England's rivers, climbers save a rare seal in Greece, and an Italian farmer grows an ancient wheat.",
+    "es": "Bajan los químicos eternos en los ríos de Inglaterra, unos escaladores salvan una foca rara en Grecia y un agricultor italiano cultiva un trigo antiguo.",
+    "fr": "Les polluants éternels reculent dans les rivières anglaises, des grimpeurs sauvent un phoque rare en Grèce et un agriculteur italien fait pousser un blé ancien."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning,",
+                "es": "Buenos días,",
+                "fr": "Bonjour,"
+              }
+            },
+            {
+              "text": {
+                "en": "and welcome to your good news",
+                "es": "y bienvenido a tus buenas noticias",
+                "fr": "et bienvenue dans vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Monday 16 November.",
+                "es": "del lunes 16 de noviembre.",
+                "fr": "du lundi 16 novembre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Three stories today,",
+                "es": "Hoy, tres historias,",
+                "fr": "Trois histoires aujourd'hui,"
+              }
+            },
+            {
+              "text": {
+                "en": "from England, Greece and Italy.",
+                "es": "de Inglaterra, Grecia e Italia.",
+                "fr": "venues d'Angleterre, de Grèce et d'Italie."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Two \"forever chemicals\"",
+                "es": "Dos «químicos eternos»",
+                "fr": "Deux «polluants éternels»"
+              }
+            },
+            {
+              "text": {
+                "en": "are fading from England's rivers.",
+                "es": "están desapareciendo de los ríos de Inglaterra.",
+                "fr": "disparaissent peu à peu des rivières d'Angleterre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They got their nickname",
+                "es": "Se ganaron su apodo",
+                "fr": "Ils doivent leur surnom"
+              }
+            },
+            {
+              "text": {
+                "en": "because they hardly ever break down.",
+                "es": "porque casi nunca se descomponen.",
+                "fr": "au fait qu'ils ne se décomposent presque jamais."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They were used in waterproof clothing,",
+                "es": "Se usaban en ropa impermeable,",
+                "fr": "On les utilisait dans les vêtements imperméables,"
+              }
+            },
+            {
+              "text": {
+                "en": "non-stick pans and firefighting foam.",
+                "es": "sartenes antiadherentes y espumas contra incendios.",
+                "fr": "les poêles antiadhésives et les mousses anti-incendie."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The UK all but banned PFOS in 2010",
+                "es": "El Reino Unido prohibió casi del todo el PFOS en 2010",
+                "fr": "Le Royaume-Uni a quasiment interdit le PFOS en 2010"
+              }
+            },
+            {
+              "text": {
+                "en": "and PFOA in 2020.",
+                "es": "y el PFOA en 2020.",
+                "fr": "et le PFOA en 2020."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "New tests by the Environment Agency",
+                "es": "Las nuevas pruebas de la Agencia de Medio Ambiente",
+                "fr": "Les nouveaux tests de l'Agence de l'environnement"
+              }
+            },
+            {
+              "text": {
+                "en": "suggest the bans are working.",
+                "es": "indican que las prohibiciones funcionan.",
+                "fr": "montrent que ces interdictions fonctionnent."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In river water,",
+                "es": "En el agua de los ríos,",
+                "fr": "Dans l'eau des rivières,"
+              }
+            },
+            {
+              "text": {
+                "en": "PFOS fell by 30% and PFOA by 29%,",
+                "es": "el PFOS bajó un 30 % y el PFOA un 29 %,",
+                "fr": "le PFOS a baissé de 30 % et le PFOA de 29 %,"
+              }
+            },
+            {
+              "text": {
+                "en": "while levels in freshwater fish",
+                "es": "mientras que en los peces de agua dulce",
+                "fr": "tandis que chez les poissons d'eau douce,"
+              }
+            },
+            {
+              "text": {
+                "en": "dropped by 49%, almost half.",
+                "es": "los niveles cayeron un 49 %, casi la mitad.",
+                "fr": "les niveaux ont chuté de 49 %, presque la moitié."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Dr David Megson, an expert",
+                "es": "El doctor David Megson, experto",
+                "fr": "David Megson, expert"
+              }
+            },
+            {
+              "text": {
+                "en": "at Manchester Metropolitan University,",
+                "es": "de la Universidad Metropolitana de Mánchester,",
+                "fr": "à l'université métropolitaine de Manchester,"
+              }
+            },
+            {
+              "text": {
+                "en": "welcomed the results.",
+                "es": "celebró los resultados.",
+                "fr": "a salué ces résultats."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In Greece, climbers have carried",
+                "es": "En Grecia, unos escaladores han subido",
+                "fr": "En Grèce, des grimpeurs ont porté"
+              }
+            },
+            {
+              "text": {
+                "en": "a stranded seal pup",
+                "es": "una cría de foca varada",
+                "fr": "un bébé phoque échoué"
+              }
+            },
+            {
+              "text": {
+                "en": "up a cliff to safety.",
+                "es": "por un acantilado para ponerla a salvo.",
+                "fr": "en haut d'une falaise pour le mettre à l'abri."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Below high cliffs on Kythira,",
+                "es": "Bajo los altos acantilados de Citera,",
+                "fr": "Au pied des hautes falaises de Cythère,"
+              }
+            },
+            {
+              "text": {
+                "en": "they found a young Mediterranean monk seal",
+                "es": "encontraron una joven foca monje del Mediterráneo",
+                "fr": "ils ont trouvé un jeune phoque moine de Méditerranée"
+              }
+            },
+            {
+              "text": {
+                "en": "on its own, thin and badly dehydrated.",
+                "es": "sola, delgada y muy deshidratada.",
+                "fr": "tout seul, maigre et très déshydraté."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It weighed about 15 kilos,",
+                "es": "Pesaba unos 15 kilos,",
+                "fr": "Il pesait environ 15 kilos,"
+              }
+            },
+            {
+              "text": {
+                "en": "and its species is critically endangered.",
+                "es": "y su especie está en peligro crítico de extinción.",
+                "fr": "et son espèce est en danger critique d'extinction."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A big wave may have",
+                "es": "Quizá una gran ola",
+                "fr": "Une grosse vague a peut-être"
+              }
+            },
+            {
+              "text": {
+                "en": "separated the pup from its mother.",
+                "es": "separó a la cría de su madre.",
+                "fr": "séparé le petit de sa mère."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The climbers hauled it up the cliff",
+                "es": "Los escaladores la subieron por el acantilado",
+                "fr": "Les grimpeurs l'ont hissé en haut de la falaise"
+              }
+            },
+            {
+              "text": {
+                "en": "in a backpack,",
+                "es": "en una mochila",
+                "fr": "dans un sac à dos,"
+              }
+            },
+            {
+              "text": {
+                "en": "and vets from Animal Aid Kythira",
+                "es": "y unos veterinarios de Animal Aid Kythira",
+                "fr": "et des vétérinaires d'Animal Aid Kythira"
+              }
+            },
+            {
+              "text": {
+                "en": "came to collect it.",
+                "es": "fueron a recogerla.",
+                "fr": "sont venus le récupérer."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A seal protection society will care for it,",
+                "es": "La cuidará una sociedad protectora de focas,",
+                "fr": "Une association de protection des phoques va s'en occuper,"
+              }
+            },
+            {
+              "text": {
+                "en": "hoping to return it to the sea.",
+                "es": "con la esperanza de devolverla al mar.",
+                "fr": "dans l'espoir de le rendre à la mer."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A farmer in Italy has revived",
+                "es": "Un agricultor italiano ha recuperado",
+                "fr": "Un agriculteur italien a fait renaître"
+              }
+            },
+            {
+              "text": {
+                "en": "an ancient wheat,",
+                "es": "un trigo antiguo,",
+                "fr": "un blé ancien,"
+              }
+            },
+            {
+              "text": {
+                "en": "almost by accident.",
+                "es": "casi por casualidad.",
+                "fr": "presque par hasard."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Claudio Grossi farms near Parma.",
+                "es": "Claudio Grossi cultiva la tierra cerca de Parma.",
+                "fr": "Claudio Grossi cultive la terre près de Parme."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In the attic, he found old, shrivelled wheat seeds,",
+                "es": "En el desván encontró unas semillas de trigo viejas y arrugadas,",
+                "fr": "Au grenier, il a trouvé de vieilles graines de blé ratatinées,"
+              }
+            },
+            {
+              "text": {
+                "en": "kept by his great-grandfather decades ago.",
+                "es": "guardadas por su bisabuelo hace décadas.",
+                "fr": "gardées par son arrière-grand-père il y a des décennies."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "He threw them onto a manure heap,",
+                "es": "Las tiró a un montón de estiércol,",
+                "fr": "Il les a jetées sur un tas de fumier,"
+              }
+            },
+            {
+              "text": {
+                "en": "where they grew into tall wheat.",
+                "es": "donde crecieron hasta dar un trigo alto.",
+                "fr": "où elles ont donné un grand blé."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "One stalk carried seven ears.",
+                "es": "Un solo tallo tenía siete espigas.",
+                "fr": "Une seule tige portait sept épis."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Scientists at the University of Parma",
+                "es": "Unos científicos de la Universidad de Parma",
+                "fr": "Des scientifiques de l'université de Parme"
+              }
+            },
+            {
+              "text": {
+                "en": "identified it as an ancient variety.",
+                "es": "lo identificaron como una variedad antigua.",
+                "fr": "l'ont identifié comme une variété ancienne."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "One Sunday in church,",
+                "es": "Un domingo, en la iglesia,",
+                "fr": "Un dimanche à l'église,"
+              }
+            },
+            {
+              "text": {
+                "en": "he heard a Bible passage",
+                "es": "oyó un pasaje de la Biblia",
+                "fr": "il a entendu un passage de la Bible"
+              }
+            },
+            {
+              "text": {
+                "en": "about seven ears on one stalk.",
+                "es": "sobre siete espigas en un solo tallo.",
+                "fr": "sur sept épis sur une seule tige."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "So he calls it Miracle wheat.",
+                "es": "Por eso lo llama trigo Milagro.",
+                "fr": "C'est pourquoi il l'appelle le blé Miracle."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Its flour is now on sale.",
+                "es": "Su harina ya está a la venta.",
+                "fr": "Sa farine est désormais en vente."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Thanks for listening,",
+                "es": "Gracias por escuchar,",
+                "fr": "Merci de votre écoute,"
+              }
+            },
+            {
+              "text": {
+                "en": "and have a good Monday.",
+                "es": "y que tengas un buen lunes.",
+                "fr": "et bon lundi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "id": "brief-2026-11-16-simple",
+  "title": {
+    "en": "Good news, 16 November",
+    "es": "Buenas noticias, 16 de noviembre",
+    "fr": "Bonnes nouvelles, 16 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: 30% Drop in Levels of Forever Chemicals in England's Rivers, 49% in Fish (Good News Network, 16 November 2026, from Environment Agency tests reported by the BBC); Climbers Lug Endangered and Orphaned Seal Pup Up a Cliff to Safety (Good News Network, 16 November 2026, from reports by Keep Talking Greece and Animal Aid Kythira); Farmer Finds Unknown Seeds in His Attic and Grows an Ancient 'Miracle' Grain (Good News Network, 16 November 2026, first reported by Smithsonian Magazine). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/; https://www.bbc.com/news/articles/cmze75r55g3jo; https://www.goodnewsnetwork.org/climbers-lug-endangered-and-orphaned-seal-pup-up-a-cliff-to-safety/; https://www.keeptalkinggreece.com/2026/10/21/dramatic-rescue-of-newborn-orphaned-baby-seal-by-climbers-kythera/; https://www.animalaidkythira.com/; https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/; https://shop.molinograssi.it/products/miracolo-tipo-1",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "Forever chemicals fall in England's rivers, climbers save a rare seal in Greece, and an Italian farmer grows an ancient wheat.",
+    "es": "Bajan los químicos eternos en los ríos de Inglaterra, unos escaladores salvan una foca rara en Grecia y un agricultor italiano cultiva un trigo antiguo.",
+    "fr": "Les polluants éternels reculent dans les rivières anglaises, des grimpeurs sauvent un phoque rare en Grèce et un agriculteur italien fait pousser un blé ancien."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Monday 16 November.",
+                "es": "del lunes 16 de noviembre.",
+                "fr": "du lundi 16 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "England's rivers have fewer",
+                "es": "Los ríos de Inglaterra tienen menos",
+                "fr": "Les rivières d'Angleterre ont moins de"
+              }
+            },
+            {
+              "text": {
+                "en": "\"forever chemicals\".",
+                "es": "«químicos eternos».",
+                "fr": "«polluants éternels»."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "These chemicals",
+                "es": "Estos químicos",
+                "fr": "Ces polluants"
+              }
+            },
+            {
+              "text": {
+                "en": "hardly ever break down.",
+                "es": "casi nunca se descomponen.",
+                "fr": "ne se décomposent presque jamais."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They were in rain jackets,",
+                "es": "Estaban en chaquetas impermeables,",
+                "fr": "On les trouvait dans les vestes de pluie,"
+              }
+            },
+            {
+              "text": {
+                "en": "non-stick pans",
+                "es": "sartenes antiadherentes",
+                "fr": "les poêles antiadhésives"
+              }
+            },
+            {
+              "text": {
+                "en": "and firefighting foam.",
+                "es": "y espumas contra incendios.",
+                "fr": "et les mousses anti-incendie."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The UK banned most uses",
+                "es": "El Reino Unido prohibió casi todos los usos",
+                "fr": "Le Royaume-Uni a interdit presque tous les usages"
+              }
+            },
+            {
+              "text": {
+                "en": "of two of them.",
+                "es": "de dos de ellos.",
+                "fr": "de deux d'entre eux."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In river water,",
+                "es": "En el agua de los ríos,",
+                "fr": "Dans l'eau des rivières,"
+              }
+            },
+            {
+              "text": {
+                "en": "the levels fell by about 30%.",
+                "es": "los niveles bajaron cerca de un 30 %.",
+                "fr": "les niveaux ont baissé d'environ 30 %."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In fish,",
+                "es": "En los peces,",
+                "fr": "Chez les poissons,"
+              }
+            },
+            {
+              "text": {
+                "en": "they fell by almost half.",
+                "es": "bajaron casi a la mitad.",
+                "fr": "ils ont baissé de près de moitié."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "So the bans seem to work.",
+                "es": "Así que las prohibiciones parecen funcionar.",
+                "fr": "Les interdictions semblent donc marcher."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Climbers on the Greek island of Kythira",
+                "es": "Unos escaladores en la isla griega de Citera",
+                "fr": "Des grimpeurs sur l'île grecque de Cythère"
+              }
+            },
+            {
+              "text": {
+                "en": "saved a young seal.",
+                "es": "salvaron a una foca joven.",
+                "fr": "ont sauvé un jeune phoque."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They found it alone on a beach",
+                "es": "La encontraron sola en una playa",
+                "fr": "Ils l'ont trouvé seul sur une plage"
+              }
+            },
+            {
+              "text": {
+                "en": "below high cliffs.",
+                "es": "bajo unos acantilados altos.",
+                "fr": "au pied de hautes falaises."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It was thin and needed water badly.",
+                "es": "Estaba delgada y necesitaba agua con urgencia.",
+                "fr": "Il était maigre et avait grand besoin d'eau."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "There are very few",
+                "es": "Quedan muy pocas",
+                "fr": "Il reste très peu de"
+              }
+            },
+            {
+              "text": {
+                "en": "Mediterranean monk seals left.",
+                "es": "focas monje del Mediterráneo.",
+                "fr": "phoques moines de Méditerranée."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They carried it up the cliff",
+                "es": "La subieron por el acantilado",
+                "fr": "Les grimpeurs l'ont monté en haut de la falaise"
+              }
+            },
+            {
+              "text": {
+                "en": "in a backpack.",
+                "es": "en una mochila.",
+                "fr": "dans un sac à dos."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They hope to return it to the sea.",
+                "es": "Esperan devolverla al mar.",
+                "fr": "On espère le remettre à la mer."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A farmer near Parma, in Italy,",
+                "es": "Un agricultor de cerca de Parma, en Italia,",
+                "fr": "Un agriculteur près de Parme, en Italie,"
+              }
+            },
+            {
+              "text": {
+                "en": "found old seeds in his attic.",
+                "es": "encontró semillas viejas en su desván.",
+                "fr": "a trouvé de vieilles graines dans son grenier."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "He threw them onto a dung heap.",
+                "es": "Las tiró a un montón de estiércol.",
+                "fr": "Il les a jetées sur un tas de fumier."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "But they grew into tall, ancient wheat.",
+                "es": "Pero de ellas salió un trigo alto y antiguo.",
+                "fr": "Mais elles ont donné un blé ancien, très haut."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "One stalk had seven ears,",
+                "es": "Un solo tallo tenía siete espigas,",
+                "fr": "Une seule tige avait sept épis,"
+              }
+            },
+            {
+              "text": {
+                "en": "the parts that hold the grain.",
+                "es": "las partes que llevan el grano.",
+                "fr": "les parties qui portent les grains."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "At church, he heard the same thing",
+                "es": "En la iglesia, oyó lo mismo",
+                "fr": "À l'église, il a entendu la même chose"
+              }
+            },
+            {
+              "text": {
+                "en": "in a Bible story.",
+                "es": "en un pasaje de la Biblia.",
+                "fr": "dans un passage de la Bible."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "So he calls it \"Miracle wheat\".",
+                "es": "Por eso lo llama «trigo Milagro».",
+                "fr": "Alors il l'appelle «blé Miracle»."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Monday.",
+                "es": "Que tengas un buen lunes.",
+                "fr": "Passez un bon lundi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
