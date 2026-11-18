@@ -1,0 +1,558 @@
+{
+  "id": "brief-2026-11-18-standard",
+  "title": {
+    "en": "Good news, 18 November",
+    "es": "Buenas noticias, 18 de noviembre",
+    "fr": "Bonnes nouvelles, 18 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: West Coast's First Ever Sea Turtle Hatchlings Released into the Pacific (Good News Network, 17 November 2026, from the Aquarium of the Pacific); Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins (Good News Network, 16 November 2026, first reported by The Japan Times); Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime (Good News Network, 17 November 2026, with earlier reporting by The Guardian). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/; https://www.aquariumofpacific.org/news/story/olive_ridley_sea_turtle_egg_update; https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/; https://www.japantimes.co.jp/life/2026/11/10/style-design/robot-smart-garbage-bins/; https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/; https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team",
+  "readingLevel": "Intermediate",
+  "blurb": {
+    "en": "Sea turtles hatch on America's West Coast, Tokyo tries clever rubbish bins, and Algeria thanks a city in Kansas.",
+    "es": "Nacen tortugas marinas en la costa oeste de Estados Unidos, Tokio prueba papeleras inteligentes y Argelia da las gracias a una ciudad de Kansas.",
+    "fr": "Des tortues de mer naissent sur la côte ouest américaine, Tokyo teste des poubelles intelligentes et l'Algérie remercie une ville du Kansas."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning,",
+                "es": "Buenos días,",
+                "fr": "Bonjour,"
+              }
+            },
+            {
+              "text": {
+                "en": "and welcome to your good news",
+                "es": "y bienvenido a tus buenas noticias",
+                "fr": "et bienvenue dans vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Wednesday 18 November.",
+                "es": "del miércoles 18 de noviembre.",
+                "fr": "du mercredi 18 novembre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Three stories today,",
+                "es": "Hoy, tres historias,",
+                "fr": "Trois histoires aujourd'hui,"
+              }
+            },
+            {
+              "text": {
+                "en": "from the United States, Japan and Algeria.",
+                "es": "de Estados Unidos, Japón y Argelia.",
+                "fr": "venues des États-Unis, du Japon et d'Algérie."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Baby sea turtles have hatched",
+                "es": "Han nacido crías de tortuga marina",
+                "fr": "Des bébés tortues de mer sont nés"
+              }
+            },
+            {
+              "text": {
+                "en": "on the West Coast of America",
+                "es": "en la costa oeste de Estados Unidos",
+                "fr": "sur la côte ouest des États-Unis"
+              }
+            },
+            {
+              "text": {
+                "en": "for the first time on record.",
+                "es": "por primera vez desde que hay registros.",
+                "fr": "pour la première fois dans les annales."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In late September,",
+                "es": "A finales de septiembre,",
+                "fr": "Fin septembre,"
+              }
+            },
+            {
+              "text": {
+                "en": "lifeguards in California watched",
+                "es": "unos socorristas de California vieron",
+                "fr": "des sauveteurs en Californie ont vu"
+              }
+            },
+            {
+              "text": {
+                "en": "a female olive ridley turtle",
+                "es": "cómo una hembra de tortuga golfina",
+                "fr": "une femelle de tortue olivâtre"
+              }
+            },
+            {
+              "text": {
+                "en": "come ashore, dig a nest and lay her eggs.",
+                "es": "salía a la orilla, cavaba un nido y ponía sus huevos.",
+                "fr": "sortir de l'eau, creuser un nid et pondre ses œufs."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "When forecasters warned of a storm,",
+                "es": "Cuando se anunció una tormenta,",
+                "fr": "Quand une tempête a été annoncée,"
+              }
+            },
+            {
+              "text": {
+                "en": "state and federal officials",
+                "es": "las autoridades estatales y federales",
+                "fr": "les autorités de l'État et fédérales"
+              }
+            },
+            {
+              "text": {
+                "en": "moved the eggs to the Aquarium of the Pacific",
+                "es": "llevaron los huevos al Aquarium of the Pacific",
+                "fr": "ont transporté les œufs à l'Aquarium of the Pacific"
+              }
+            },
+            {
+              "text": {
+                "en": "in Long Beach.",
+                "es": "de Long Beach.",
+                "fr": "de Long Beach."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The hatchlings came out there,",
+                "es": "Las crías salieron del cascarón allí,",
+                "fr": "Les petites tortues y ont éclos,"
+              }
+            },
+            {
+              "text": {
+                "en": "and last weekend they were taken",
+                "es": "y el fin de semana pasado las llevaron",
+                "fr": "et le week-end dernier, on les a emmenées"
+              }
+            },
+            {
+              "text": {
+                "en": "to beaches in Orange County.",
+                "es": "a unas playas del condado de Orange.",
+                "fr": "sur des plages du comté d'Orange."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Staff measured each one",
+                "es": "El personal midió cada una",
+                "fr": "Le personnel a mesuré chacune d'elles"
+              }
+            },
+            {
+              "text": {
+                "en": "before it made its own way",
+                "es": "antes de que avanzara sola",
+                "fr": "avant qu'elle ne rejoigne seule"
+              }
+            },
+            {
+              "text": {
+                "en": "down to the water.",
+                "es": "hasta el agua.",
+                "fr": "le bord de l'eau."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A wildlife official said",
+                "es": "Un responsable de fauna dijo",
+                "fr": "Un responsable de la faune a expliqué"
+              }
+            },
+            {
+              "text": {
+                "en": "conservation work has helped their numbers grow.",
+                "es": "que la labor de conservación ha ayudado a que aumenten.",
+                "fr": "que les efforts de protection ont permis à leur nombre d'augmenter."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Tokyo is trying out",
+                "es": "Tokio está probando",
+                "fr": "Tokyo teste"
+              }
+            },
+            {
+              "text": {
+                "en": "a new generation of rubbish bins.",
+                "es": "una nueva generación de papeleras.",
+                "fr": "une nouvelle génération de poubelles."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Japan has very few public bins,",
+                "es": "Japón tiene muy pocas papeleras públicas,",
+                "fr": "Le Japon compte très peu de poubelles publiques,"
+              }
+            },
+            {
+              "text": {
+                "en": "and Tokyo took many away",
+                "es": "y Tokio retiró muchas",
+                "fr": "et Tokyo en a retiré beaucoup"
+              }
+            },
+            {
+              "text": {
+                "en": "because they filled up fast",
+                "es": "porque se llenaban enseguida",
+                "fr": "parce qu'elles se remplissaient vite"
+              }
+            },
+            {
+              "text": {
+                "en": "and were costly to empty.",
+                "es": "y vaciarlas salía caro.",
+                "fr": "et coûtaient cher à vider."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "One new bin, called SmaGO,",
+                "es": "Una de las nuevas, llamada SmaGO,",
+                "fr": "L'une des nouvelles, appelée SmaGO,"
+              }
+            },
+            {
+              "text": {
+                "en": "runs on solar power",
+                "es": "funciona con energía solar",
+                "fr": "fonctionne à l'énergie solaire"
+              }
+            },
+            {
+              "text": {
+                "en": "and squashes the rubbish inside",
+                "es": "y aplasta la basura que contiene",
+                "fr": "et tasse les déchets qu'elle contient"
+              }
+            },
+            {
+              "text": {
+                "en": "every five minutes.",
+                "es": "cada cinco minutos.",
+                "fr": "toutes les cinq minutes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "That lets it hold five times as much",
+                "es": "Así le cabe cinco veces más",
+                "fr": "Elle peut ainsi en contenir cinq fois plus"
+              }
+            },
+            {
+              "text": {
+                "en": "as an ordinary bin.",
+                "es": "que a una papelera normal.",
+                "fr": "qu'une poubelle ordinaire."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It also reports online when it is full,",
+                "es": "Además, avisa por internet cuando está llena,",
+                "fr": "Elle signale aussi en ligne quand elle est pleine,"
+              }
+            },
+            {
+              "text": {
+                "en": "so collections can be planned.",
+                "es": "así que se pueden planificar las recogidas.",
+                "fr": "ce qui permet de planifier les collectes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "At Shinjuku Station,",
+                "es": "En la estación de Shinjuku,",
+                "fr": "À la gare de Shinjuku,"
+              }
+            },
+            {
+              "text": {
+                "en": "a railway company uses robot cleaners,",
+                "es": "una compañía ferroviaria usa robots de limpieza,",
+                "fr": "une compagnie ferroviaire utilise des robots nettoyeurs,"
+              }
+            },
+            {
+              "text": {
+                "en": "and early surveys found",
+                "es": "y las primeras encuestas mostraron",
+                "fr": "et les premiers sondages ont montré"
+              }
+            },
+            {
+              "text": {
+                "en": "people liked them more than expected.",
+                "es": "que gustan más de lo esperado.",
+                "fr": "qu'ils plaisent plus que prévu."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Algeria has said thank you",
+                "es": "Argelia ha dado las gracias",
+                "fr": "L'Algérie a dit merci"
+              }
+            },
+            {
+              "text": {
+                "en": "to an American city.",
+                "es": "a una ciudad estadounidense.",
+                "fr": "à une ville américaine."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "During this year's World Cup,",
+                "es": "Durante el Mundial de este año,",
+                "fr": "Pendant la Coupe du monde de cette année,"
+              }
+            },
+            {
+              "text": {
+                "en": "Algeria's national team was based",
+                "es": "la selección de Argelia tuvo su base",
+                "fr": "l'équipe nationale d'Algérie était installée"
+              }
+            },
+            {
+              "text": {
+                "en": "in Lawrence, Kansas.",
+                "es": "en Lawrence, Kansas.",
+                "fr": "à Lawrence, au Kansas."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Local people welcomed the players warmly,",
+                "es": "Los vecinos recibieron a los jugadores con cariño,",
+                "fr": "Les habitants ont chaleureusement accueilli les joueurs,"
+              }
+            },
+            {
+              "text": {
+                "en": "and a video of one resident",
+                "es": "y un vídeo de un vecino",
+                "fr": "et une vidéo d'un habitant"
+              }
+            },
+            {
+              "text": {
+                "en": "thanking Algeria",
+                "es": "dando las gracias a Argelia",
+                "fr": "remerciant l'Algérie"
+              }
+            },
+            {
+              "text": {
+                "en": "was watched tens of millions of times.",
+                "es": "se vio decenas de millones de veces.",
+                "fr": "a été vue des dizaines de millions de fois."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Early this month,",
+                "es": "A principios de este mes,",
+                "fr": "Début novembre,"
+              }
+            },
+            {
+              "text": {
+                "en": "at the invitation of Algeria's president,",
+                "es": "invitado por el presidente de Argelia,",
+                "fr": "à l'invitation du président algérien,"
+              }
+            },
+            {
+              "text": {
+                "en": "a group from Kansas flew to Algeria.",
+                "es": "un grupo de Kansas viajó a Argelia.",
+                "fr": "un groupe venu du Kansas s'est envolé pour l'Algérie."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It included the mayor of Lawrence,",
+                "es": "Iban el alcalde de Lawrence,",
+                "fr": "Il comprenait le maire de Lawrence,"
+              }
+            },
+            {
+              "text": {
+                "en": "members of a local fan group",
+                "es": "miembros de un grupo local de aficionados",
+                "fr": "des membres d'un groupe local de supporters"
+              }
+            },
+            {
+              "text": {
+                "en": "and police officers",
+                "es": "y agentes de policía",
+                "fr": "et des policiers"
+              }
+            },
+            {
+              "text": {
+                "en": "who had guarded the team.",
+                "es": "que habían protegido al equipo.",
+                "fr": "qui avaient assuré la sécurité de l'équipe."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The visitors toured Roman ruins at Tipaza",
+                "es": "Los visitantes recorrieron las ruinas romanas de Tipasa",
+                "fr": "Les visiteurs ont parcouru les ruines romaines de Tipasa"
+              }
+            },
+            {
+              "text": {
+                "en": "and watched Algeria beat Togo one nil.",
+                "es": "y vieron a Argelia ganar a Togo por uno a cero.",
+                "fr": "et vu l'Algérie battre le Togo un à zéro."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Thanks for listening,",
+                "es": "Gracias por escuchar,",
+                "fr": "Merci de votre écoute,"
+              }
+            },
+            {
+              "text": {
+                "en": "and have a good Wednesday.",
+                "es": "y que tengas un buen miércoles.",
+                "fr": "et bon mercredi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
