@@ -1,0 +1,369 @@
+{
+  "id": "brief-2026-11-19-simple",
+  "title": {
+    "en": "Good news, 19 November",
+    "es": "Buenas noticias, 19 de noviembre",
+    "fr": "Bonnes nouvelles, 19 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Over 100 Cave Bear Skeletons Found in 'Sensational' Discovery by Alpine Guide (Good News Network, 19 November 2026, from the Autonomous Province of South Tyrol); Scientists 'Cure' Deadly Brain Tumors in Every Mouse Tested with New Cancer Therapy (Good News Network, 18 November 2026, from research published in Science Translational Medicine); Siblings Build 430-Step 'Sky Ladder' for Their Mother Who Refuses to Live in the City (Good News Network, 18 November 2026, first reported by Chao News). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/; https://news.provincia.bz.it/it/news/gli-orsi-delle-caverne-sono-al-sicuro; https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/; https://www.science.org/doi/10.1126/scitranslmed.aed9994; https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/; https://www.scmp.com/news/people-culture/trending-china/article/3374598/chinese-siblings-build-430-step-sky-ladder-elderly-mother-who-refuses-live-city",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "Ice Age bears are found in an Italian cave, a new treatment clears brain cancer in mice, and a family in China builds a mountain stairway.",
+    "es": "Encuentran osos de la Edad de Hielo en una cueva italiana, un nuevo tratamiento elimina un cáncer cerebral en ratones y una familia china construye una escalera en la montaña.",
+    "fr": "Des ours de l'ère glaciaire découverts dans une grotte italienne, un nouveau traitement élimine un cancer du cerveau chez la souris et une famille chinoise construit un escalier dans la montagne."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Thursday 19 November.",
+                "es": "del jueves 19 de noviembre.",
+                "fr": "du jeudi 19 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A mountain guide in Italy",
+                "es": "Un guía de montaña en Italia",
+                "fr": "Un guide de montagne en Italie"
+              }
+            },
+            {
+              "text": {
+                "en": "has found a cave full of old bones.",
+                "es": "ha encontrado una cueva llena de huesos antiguos.",
+                "fr": "a trouvé une grotte pleine de vieux os."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They belong to more than one hundred cave bears.",
+                "es": "Son de más de cien osos de las cavernas.",
+                "fr": "Ils appartiennent à plus de cent ours des cavernes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "These big bears died out",
+                "es": "Estos grandes osos desaparecieron",
+                "fr": "Ces grands ours ont disparu"
+              }
+            },
+            {
+              "text": {
+                "en": "in the last Ice Age.",
+                "es": "en la última glaciación.",
+                "fr": "pendant la dernière période glaciaire."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The cave is high in the Alps.",
+                "es": "La cueva está en lo alto de los Alpes.",
+                "fr": "La grotte se trouve tout en haut des Alpes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It was kept secret",
+                "es": "La mantuvieron en secreto",
+                "fr": "On l'a gardée secrète"
+              }
+            },
+            {
+              "text": {
+                "en": "to keep the bones safe.",
+                "es": "para proteger los huesos.",
+                "fr": "pour protéger les os."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Now scientists will study them.",
+                "es": "Ahora los estudiarán los científicos.",
+                "fr": "Les scientifiques vont maintenant les étudier."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Scientists in the United States",
+                "es": "Unos científicos de Estados Unidos",
+                "fr": "Des scientifiques américains"
+              }
+            },
+            {
+              "text": {
+                "en": "have cured a brain cancer in mice.",
+                "es": "han curado un cáncer cerebral en ratones.",
+                "fr": "ont guéri un cancer du cerveau chez des souris."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "This cancer mostly affects children",
+                "es": "Este cáncer afecta sobre todo a niños",
+                "fr": "Ce cancer touche surtout les enfants"
+              }
+            },
+            {
+              "text": {
+                "en": "and is hard to treat.",
+                "es": "y es difícil de tratar.",
+                "fr": "et il est difficile à soigner."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The team changed some immune cells",
+                "es": "El equipo modificó unas células inmunitarias",
+                "fr": "L'équipe a modifié des cellules immunitaires"
+              }
+            },
+            {
+              "text": {
+                "en": "so they could fight the cancer.",
+                "es": "para que pudieran combatir el cáncer.",
+                "fr": "pour qu'elles combattent le cancer."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In every mouse they tested,",
+                "es": "En todos los ratones del estudio,",
+                "fr": "Chez toutes les souris testées,"
+              }
+            },
+            {
+              "text": {
+                "en": "the cancer went away.",
+                "es": "el cáncer desapareció.",
+                "fr": "le cancer a disparu."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Weeks later, the mice",
+                "es": "Semanas después, los ratones",
+                "fr": "Des semaines plus tard, les souris"
+              }
+            },
+            {
+              "text": {
+                "en": "fought off new cancer cells.",
+                "es": "rechazaron nuevas células cancerosas.",
+                "fr": "ont repoussé de nouvelles cellules cancéreuses."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Tests with people",
+                "es": "Los ensayos con personas",
+                "fr": "Des essais sur des personnes"
+              }
+            },
+            {
+              "text": {
+                "en": "could start in 2027.",
+                "es": "podrían empezar en 2027.",
+                "fr": "pourraient commencer en 2027."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In China, a family has built",
+                "es": "En China, una familia ha construido",
+                "fr": "En Chine, une famille a construit"
+              }
+            },
+            {
+              "text": {
+                "en": "a long stairway up a mountain.",
+                "es": "una larga escalera en una montaña.",
+                "fr": "un long escalier sur une montagne."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Their mother is 86,",
+                "es": "Su madre tiene 86 años,",
+                "fr": "Leur mère a 86 ans,"
+              }
+            },
+            {
+              "text": {
+                "en": "and she loves her home up there.",
+                "es": "y le encanta su casa allá arriba.",
+                "fr": "et elle adore sa maison là-haut."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The old path was full of snakes.",
+                "es": "El viejo camino estaba lleno de serpientes.",
+                "fr": "L'ancien chemin était plein de serpents."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her sons and two cousins",
+                "es": "Sus hijos y dos primos",
+                "fr": "Ses fils et deux cousins"
+              }
+            },
+            {
+              "text": {
+                "en": "carried stones up the mountain.",
+                "es": "subieron piedras a la montaña.",
+                "fr": "ont monté des pierres sur la montagne."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The new stairway has 430 steps.",
+                "es": "La nueva escalera tiene 430 escalones.",
+                "fr": "Le nouvel escalier compte 430 marches."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They built it",
+                "es": "La construyeron",
+                "fr": "Ils l'ont construit"
+              }
+            },
+            {
+              "text": {
+                "en": "from August to October.",
+                "es": "entre agosto y octubre.",
+                "fr": "entre août et octobre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Thursday.",
+                "es": "Que tengas un buen jueves.",
+                "fr": "Passez un bon jeudi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

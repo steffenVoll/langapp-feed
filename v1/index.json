@@ -2,6 +2,26 @@
  "format": 1,
  "briefs": [
   {
+   "id": "brief-2026-11-19-standard",
+   "path": "books/brief-2026-11-19-standard.json",
+   "audio": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "audioRev": "cbbe783a62e9"
+  },
+  {
+   "id": "brief-2026-11-19-simple",
+   "path": "books/brief-2026-11-19-simple.json",
+   "audio": [
+    "en",
+    "es",
+    "fr"
+   ],
+   "audioRev": "6a50697d73f5"
+  },
+  {
    "id": "brief-2026-11-18-standard",
    "path": "books/brief-2026-11-18-standard.json",
    "audio": [
