@@ -1,0 +1,373 @@
+{
+  "id": "brief-2026-11-20-simple",
+  "title": {
+    "en": "Good news, 20 November",
+    "es": "Buenas noticias, 20 de noviembre",
+    "fr": "Bonnes nouvelles, 20 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling (Good News Network, 18 November 2026, from a study led by the University of Washington in Endangered Species Research); Empire State Building Lit Up with Gold Marks Historic Milestone of NASA's Voyager 1 This Week (Good News Network, 19 November 2026, from NASA); Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients (Good News Network, 20 November 2026, from an interview with TODAY). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/; https://www.int-res.com/journals/esr/articles/esr01557; https://phys.org/news/2026-11-antarctic-blue-whales-advance-road.html; https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/; https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/; https://www.today.com/food/people/toronto-area-chef-food-bank-rcna608457",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "Blue whales return near Antarctica, Voyager 1 reaches one light-day from Earth, and a Toronto chef cooks for 100 people every week.",
+    "es": "Las ballenas azules vuelven a la Antártida, la Voyager 1 llega a un día luz de la Tierra y una chef de Toronto cocina cada semana para 100 personas.",
+    "fr": "Les baleines bleues reviennent près de l'Antarctique, Voyager 1 atteint un jour-lumière de la Terre et une cheffe de Toronto cuisine chaque semaine pour 100 personnes."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Friday 20 November.",
+                "es": "del viernes 20 de noviembre.",
+                "fr": "du vendredi 20 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Blue whales near Antarctica",
+                "es": "Las ballenas azules de la Antártida",
+                "fr": "Les baleines bleues de l'Antarctique"
+              }
+            },
+            {
+              "text": {
+                "en": "are making a big comeback.",
+                "es": "están volviendo con fuerza.",
+                "fr": "font un grand retour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They are the biggest animals",
+                "es": "Son los animales más grandes",
+                "fr": "Ce sont les plus grands animaux"
+              }
+            },
+            {
+              "text": {
+                "en": "that have ever lived.",
+                "es": "que han existido jamás.",
+                "fr": "ayant jamais existé."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "People hunted them",
+                "es": "La gente las cazó",
+                "fr": "On les a chassées"
+              }
+            },
+            {
+              "text": {
+                "en": "until 1973.",
+                "es": "hasta 1973.",
+                "fr": "jusqu'en 1973."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Back then, only about 400 were left.",
+                "es": "Entonces solo quedaban unas 400.",
+                "fr": "À l'époque, il n'en restait qu'environ 400."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Now there are about 4,000.",
+                "es": "Ahora hay unas 4000.",
+                "fr": "Aujourd'hui, il y en a environ 4 000."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "That is nearly ten times as many.",
+                "es": "Son casi diez veces más.",
+                "fr": "C'est presque dix fois plus."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A team in the United States",
+                "es": "Un equipo de Estados Unidos",
+                "fr": "Une équipe américaine"
+              }
+            },
+            {
+              "text": {
+                "en": "counted them with old and new records.",
+                "es": "las contó con datos antiguos y nuevos.",
+                "fr": "les a comptées avec des données anciennes et récentes."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A spacecraft called Voyager 1",
+                "es": "Una nave espacial llamada Voyager 1",
+                "fr": "Une sonde spatiale appelée Voyager 1"
+              }
+            },
+            {
+              "text": {
+                "en": "has reached a new milestone.",
+                "es": "ha alcanzado un nuevo hito.",
+                "fr": "a franchi une nouvelle étape."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It is now one light-day away from Earth.",
+                "es": "Ahora está a un día luz de la Tierra.",
+                "fr": "Elle se trouve maintenant à un jour-lumière de la Terre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "So a radio signal",
+                "es": "Por eso, una señal de radio",
+                "fr": "Un signal radio"
+              }
+            },
+            {
+              "text": {
+                "en": "takes a whole day to reach it.",
+                "es": "tarda un día entero en llegar.",
+                "fr": "met donc une journée entière pour l'atteindre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Voyager 1 left Earth in 1977.",
+                "es": "La Voyager 1 salió de la Tierra en 1977.",
+                "fr": "Voyager 1 a quitté la Terre en 1977."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It carries a golden record",
+                "es": "Lleva un disco dorado",
+                "fr": "Elle emporte un disque doré"
+              }
+            },
+            {
+              "text": {
+                "en": "with music and greetings.",
+                "es": "con música y saludos.",
+                "fr": "avec de la musique et des salutations."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In New York, the Empire State Building",
+                "es": "En Nueva York, el Empire State Building",
+                "fr": "À New York, l'Empire State Building"
+              }
+            },
+            {
+              "text": {
+                "en": "turned gold to celebrate.",
+                "es": "se iluminó de dorado para celebrarlo.",
+                "fr": "s'est illuminé en doré pour fêter ça."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In Toronto, a chef cooks lunch",
+                "es": "En Toronto, una chef prepara la comida",
+                "fr": "À Toronto, une cheffe prépare le déjeuner"
+              }
+            },
+            {
+              "text": {
+                "en": "for 100 people every Tuesday.",
+                "es": "para 100 personas cada martes.",
+                "fr": "de 100 personnes chaque mardi."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her name is Maddy Goldberg.",
+                "es": "Se llama Maddy Goldberg.",
+                "fr": "Elle s'appelle Maddy Goldberg."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "She uses whatever food",
+                "es": "Usa la comida",
+                "fr": "Elle utilise les aliments"
+              }
+            },
+            {
+              "text": {
+                "en": "she finds at the food bank.",
+                "es": "que encuentra en el banco de alimentos.",
+                "fr": "qu'elle trouve à la banque alimentaire."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "She makes dishes",
+                "es": "Prepara platos",
+                "fr": "Elle prépare des plats"
+              }
+            },
+            {
+              "text": {
+                "en": "as good as a restaurant's.",
+                "es": "dignos de un restaurante.",
+                "fr": "dignes d'un restaurant."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "She shares her cooking videos online.",
+                "es": "Comparte sus vídeos de cocina en internet.",
+                "fr": "Elle partage ses vidéos de cuisine en ligne."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "She says anyone can help",
+                "es": "Dice que cualquiera puede ayudar",
+                "fr": "Elle dit que tout le monde peut aider"
+              }
+            },
+            {
+              "text": {
+                "en": "by asking a food bank what it needs.",
+                "es": "si pregunta a un banco de alimentos qué necesita.",
+                "fr": "en demandant à une banque alimentaire ce dont elle a besoin."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Friday.",
+                "es": "Que tengas un buen viernes.",
+                "fr": "Passez un bon vendredi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

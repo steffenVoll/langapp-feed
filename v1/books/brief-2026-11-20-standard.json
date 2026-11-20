@@ -1,0 +1,560 @@
+{
+  "id": "brief-2026-11-20-standard",
+  "title": {
+    "en": "Good news, 20 November",
+    "es": "Buenas noticias, 20 de noviembre",
+    "fr": "Bonnes nouvelles, 20 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling (Good News Network, 18 November 2026, from a study led by the University of Washington in Endangered Species Research); Empire State Building Lit Up with Gold Marks Historic Milestone of NASA's Voyager 1 This Week (Good News Network, 19 November 2026, from NASA); Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients (Good News Network, 20 November 2026, from an interview with TODAY). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/; https://www.int-res.com/journals/esr/articles/esr01557; https://phys.org/news/2026-11-antarctic-blue-whales-advance-road.html; https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/; https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/; https://www.today.com/food/people/toronto-area-chef-food-bank-rcna608457",
+  "readingLevel": "Intermediate",
+  "blurb": {
+    "en": "Blue whales return near Antarctica, Voyager 1 reaches one light-day from Earth, and a Toronto chef cooks for 100 people every week.",
+    "es": "Las ballenas azules vuelven a la Antártida, la Voyager 1 llega a un día luz de la Tierra y una chef de Toronto cocina cada semana para 100 personas.",
+    "fr": "Les baleines bleues reviennent près de l'Antarctique, Voyager 1 atteint un jour-lumière de la Terre et une cheffe de Toronto cuisine chaque semaine pour 100 personnes."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning,",
+                "es": "Buenos días,",
+                "fr": "Bonjour,"
+              }
+            },
+            {
+              "text": {
+                "en": "and welcome to your good news",
+                "es": "y bienvenido a tus buenas noticias",
+                "fr": "et bienvenue dans vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Friday 20 November.",
+                "es": "del viernes 20 de noviembre.",
+                "fr": "du vendredi 20 novembre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Three stories today,",
+                "es": "Hoy, tres historias,",
+                "fr": "Trois histoires aujourd'hui,"
+              }
+            },
+            {
+              "text": {
+                "en": "from Antarctica, the United States and Canada.",
+                "es": "de la Antártida, Estados Unidos y Canadá.",
+                "fr": "venues de l'Antarctique, des États-Unis et du Canada."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Antarctic blue whales",
+                "es": "Las ballenas azules antárticas",
+                "fr": "Les baleines bleues de l'Antarctique"
+              }
+            },
+            {
+              "text": {
+                "en": "have made a remarkable recovery.",
+                "es": "se han recuperado de forma notable.",
+                "fr": "se sont remarquablement rétablies."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In 1973, when illegal hunting finally stopped,",
+                "es": "En 1973, cuando por fin acabó la caza ilegal,",
+                "fr": "En 1973, quand la chasse illégale a enfin cessé,"
+              }
+            },
+            {
+              "text": {
+                "en": "only about 418 of them were left.",
+                "es": "solo quedaban unas 418.",
+                "fr": "il n'en restait qu'environ 418."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Today there are around 4,000,",
+                "es": "Hoy hay unas 4000,",
+                "fr": "Aujourd'hui, on en compte environ 4 000,"
+              }
+            },
+            {
+              "text": {
+                "en": "nearly ten times as many.",
+                "es": "casi diez veces más.",
+                "fr": "soit presque dix fois plus."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Blue whales are the largest animals ever known,",
+                "es": "Las ballenas azules son los animales más grandes que se conocen,",
+                "fr": "Les baleines bleues sont les plus grands animaux connus,"
+              }
+            },
+            {
+              "text": {
+                "en": "and a mother has only one calf",
+                "es": "y cada hembra tiene una sola cría",
+                "fr": "et une femelle n'a qu'un seul petit"
+              }
+            },
+            {
+              "text": {
+                "en": "about every three years.",
+                "es": "cada tres años, más o menos.",
+                "fr": "environ tous les trois ans."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Counting them is hard,",
+                "es": "Contarlas es difícil,",
+                "fr": "Les compter est difficile,"
+              }
+            },
+            {
+              "text": {
+                "en": "because they spend most of their time underwater.",
+                "es": "porque pasan casi todo el tiempo bajo el agua.",
+                "fr": "car elles passent presque tout leur temps sous l'eau."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Zoe Rand, at the University of Washington,",
+                "es": "Zoe Rand, de la Universidad de Washington,",
+                "fr": "Zoe Rand, de l'université de Washington,"
+              }
+            },
+            {
+              "text": {
+                "en": "led the new study.",
+                "es": "dirigió el nuevo estudio.",
+                "fr": "a dirigé la nouvelle étude."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her team combined old whaling records,",
+                "es": "Su equipo combinó antiguos registros balleneros,",
+                "fr": "Son équipe a croisé d'anciens registres de chasse,"
+              }
+            },
+            {
+              "text": {
+                "en": "photos of individual whales",
+                "es": "fotos de ballenas concretas",
+                "fr": "des photos de baleines identifiées"
+              }
+            },
+            {
+              "text": {
+                "en": "and decades of surveys from boats.",
+                "es": "y décadas de recuentos desde barcos.",
+                "fr": "et des décennies de relevés en bateau."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The species is still critically endangered,",
+                "es": "La especie sigue en peligro crítico,",
+                "fr": "L'espèce reste en danger critique,"
+              }
+            },
+            {
+              "text": {
+                "en": "but the numbers keep going up.",
+                "es": "pero las cifras no dejan de subir.",
+                "fr": "mais les effectifs continuent d'augmenter."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "NASA's Voyager 1",
+                "es": "La Voyager 1 de la NASA",
+                "fr": "La sonde Voyager 1 de la NASA"
+              }
+            },
+            {
+              "text": {
+                "en": "is now one light-day from Earth.",
+                "es": "ya está a un día luz de la Tierra.",
+                "fr": "se trouve désormais à un jour-lumière de la Terre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A light-day is the distance",
+                "es": "Un día luz es la distancia",
+                "fr": "Un jour-lumière est la distance"
+              }
+            },
+            {
+              "text": {
+                "en": "that light travels in 24 hours,",
+                "es": "que recorre la luz en 24 horas,",
+                "fr": "que parcourt la lumière en 24 heures,"
+              }
+            },
+            {
+              "text": {
+                "en": "about 26 billion kilometres.",
+                "es": "unos 26 000 millones de kilómetros.",
+                "fr": "soit environ 26 milliards de kilomètres."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "So a message from Earth",
+                "es": "Así que un mensaje desde la Tierra",
+                "fr": "Un message envoyé depuis la Terre"
+              }
+            },
+            {
+              "text": {
+                "en": "now takes a full day to reach it.",
+                "es": "tarda ahora un día entero en llegar.",
+                "fr": "met donc maintenant une journée entière pour l'atteindre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Voyager 1 was launched in 1977",
+                "es": "La Voyager 1 se lanzó en 1977",
+                "fr": "Voyager 1 a été lancée en 1977"
+              }
+            },
+            {
+              "text": {
+                "en": "to study Jupiter and Saturn.",
+                "es": "para estudiar Júpiter y Saturno.",
+                "fr": "pour étudier Jupiter et Saturne."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "On board is a gold-plated record",
+                "es": "A bordo lleva un disco chapado en oro",
+                "fr": "À son bord se trouve un disque plaqué or"
+              }
+            },
+            {
+              "text": {
+                "en": "with 115 pictures, music, natural sounds",
+                "es": "con 115 imágenes, música, sonidos de la naturaleza",
+                "fr": "avec 115 images, de la musique, des sons de la nature"
+              }
+            },
+            {
+              "text": {
+                "en": "and greetings in 55 languages.",
+                "es": "y saludos en 55 idiomas.",
+                "fr": "et des salutations en 55 langues."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "To mark the milestone,",
+                "es": "Para celebrar el hito,",
+                "fr": "Pour marquer l'événement,"
+              }
+            },
+            {
+              "text": {
+                "en": "the Empire State Building in New York",
+                "es": "el Empire State Building de Nueva York",
+                "fr": "l'Empire State Building, à New York,"
+              }
+            },
+            {
+              "text": {
+                "en": "was lit up in gold.",
+                "es": "se iluminó de dorado.",
+                "fr": "s'est illuminé en doré."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A chef near Toronto",
+                "es": "Una chef de la zona de Toronto",
+                "fr": "Une cheffe de la région de Toronto"
+              }
+            },
+            {
+              "text": {
+                "en": "cooks a free lunch for 100 people",
+                "es": "prepara una comida gratis para 100 personas",
+                "fr": "prépare un déjeuner gratuit pour 100 personnes"
+              }
+            },
+            {
+              "text": {
+                "en": "every Tuesday.",
+                "es": "cada martes.",
+                "fr": "chaque mardi."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Maddy Goldberg volunteers",
+                "es": "Maddy Goldberg es voluntaria",
+                "fr": "Maddy Goldberg est bénévole"
+              }
+            },
+            {
+              "text": {
+                "en": "at the Fort York Food Bank,",
+                "es": "en el banco de alimentos Fort York,",
+                "fr": "à la banque alimentaire Fort York,"
+              }
+            },
+            {
+              "text": {
+                "en": "and she cooks with whatever she finds there.",
+                "es": "y cocina con lo que encuentra allí.",
+                "fr": "et elle cuisine avec ce qu'elle y trouve."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "She makes dishes",
+                "es": "Prepara platos",
+                "fr": "Elle prépare des plats"
+              }
+            },
+            {
+              "text": {
+                "en": "worthy of a good restaurant,",
+                "es": "dignos de un buen restaurante,",
+                "fr": "dignes d'un bon restaurant,"
+              }
+            },
+            {
+              "text": {
+                "en": "like a lentil fritter",
+                "es": "como unas tortitas de lentejas",
+                "fr": "comme des beignets de lentilles"
+              }
+            },
+            {
+              "text": {
+                "en": "with caramelised onion, cinnamon and curry.",
+                "es": "con cebolla caramelizada, canela y curri.",
+                "fr": "à l'oignon caramélisé, à la cannelle et au curry."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Goldberg first studied social work,",
+                "es": "Goldberg estudió primero trabajo social,",
+                "fr": "Maddy Goldberg a d'abord étudié le travail social,"
+              }
+            },
+            {
+              "text": {
+                "en": "but her love of cooking",
+                "es": "pero su pasión por la cocina",
+                "fr": "mais sa passion pour la cuisine"
+              }
+            },
+            {
+              "text": {
+                "en": "took her into restaurants.",
+                "es": "la llevó a los restaurantes.",
+                "fr": "l'a menée vers les restaurants."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "There she saw how much food was thrown away.",
+                "es": "Allí vio cuánta comida se tiraba.",
+                "fr": "Elle y a vu combien de nourriture était jetée."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "She later became a private chef,",
+                "es": "Más tarde se hizo chef privada,",
+                "fr": "Elle est ensuite devenue cheffe à domicile,"
+              }
+            },
+            {
+              "text": {
+                "en": "which gave her time to volunteer.",
+                "es": "y así tuvo tiempo para el voluntariado.",
+                "fr": "ce qui lui a laissé du temps pour le bénévolat."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "About 180,000 people follow her videos",
+                "es": "Unas 180 000 personas siguen sus vídeos",
+                "fr": "Environ 180 000 personnes suivent ses vidéos"
+              }
+            },
+            {
+              "text": {
+                "en": "on Instagram.",
+                "es": "en Instagram.",
+                "fr": "sur Instagram."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Her advice is simple:",
+                "es": "Su consejo es sencillo:",
+                "fr": "Son conseil est simple:"
+              }
+            },
+            {
+              "text": {
+                "en": "ask your local food bank what it needs.",
+                "es": "pregunta a tu banco de alimentos qué necesita.",
+                "fr": "demandez à votre banque alimentaire ce dont elle a besoin."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Thanks for listening,",
+                "es": "Gracias por escuchar,",
+                "fr": "Merci de votre écoute,"
+              }
+            },
+            {
+              "text": {
+                "en": "and have a good Friday.",
+                "es": "y que tengas un buen viernes.",
+                "fr": "et bon vendredi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
