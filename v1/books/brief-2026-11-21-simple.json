@@ -1,0 +1,362 @@
+{
+  "id": "brief-2026-11-21-simple",
+  "title": {
+    "en": "Good news, 21 November",
+    "es": "Buenas noticias, 21 de noviembre",
+    "fr": "Bonnes nouvelles, 21 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals (Good News Network, 20 November 2026, from The Better India); Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise (Reasons to be Cheerful, 20 November 2026, from the Sounds in the City research team at McGill University); The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide (Reasons to be Cheerful, 19 November 2026, first published by Grist). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/; https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/; https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/; https://grist.org/science/carbon-dioxide-is-a-climate-problem-it-might-also-be-a-laundry-solution/",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "Paper made from rhino dung in India, ocean sounds in a Montreal park, and clothes washed without water in Colorado.",
+    "es": "Papel hecho con excrementos de rinoceronte en la India, sonidos del mar en un parque de Montreal y ropa lavada sin agua en Colorado.",
+    "fr": "Du papier fait d'excréments de rhinocéros en Inde, des bruits de la mer dans un parc de Montréal et des vêtements lavés sans eau au Colorado."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Saturday 21 November.",
+                "es": "del sábado 21 de noviembre.",
+                "fr": "du samedi 21 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In India, a family makes paper",
+                "es": "En la India, una familia fabrica papel",
+                "fr": "En Inde, une famille fabrique du papier"
+              }
+            },
+            {
+              "text": {
+                "en": "from rhino dung.",
+                "es": "con excrementos de rinoceronte.",
+                "fr": "avec des excréments de rhinocéros."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Local people collect the dung",
+                "es": "La gente de la zona recoge los excrementos",
+                "fr": "Les habitants ramassent les excréments"
+              }
+            },
+            {
+              "text": {
+                "en": "near the parks of Assam.",
+                "es": "cerca de los parques de Assam.",
+                "fr": "près des parcs de l'Assam."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The dung is washed and boiled,",
+                "es": "Los excrementos se lavan y se hierven,",
+                "fr": "Les excréments sont lavés et bouillis,"
+              }
+            },
+            {
+              "text": {
+                "en": "then pressed into sheets.",
+                "es": "y luego se prensan en hojas.",
+                "fr": "puis pressés en feuilles."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They make notebooks, bags and cards.",
+                "es": "Con ellas hacen cuadernos, bolsas y naipes.",
+                "fr": "On en fait des carnets, des sacs et des cartes à jouer."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Rhinos can damage crops.",
+                "es": "Los rinocerontes pueden dañar los cultivos.",
+                "fr": "Les rhinocéros peuvent abîmer les cultures."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Now their dung brings villagers money,",
+                "es": "Ahora sus excrementos dan dinero a los vecinos,",
+                "fr": "Désormais, leurs excréments rapportent de l'argent aux villageois,"
+              }
+            },
+            {
+              "text": {
+                "en": "so the rhinos are more welcome.",
+                "es": "así que los rinocerontes son mejor recibidos.",
+                "fr": "et les rhinocéros sont donc mieux acceptés."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A small park in Montreal",
+                "es": "Un pequeño parque de Montreal",
+                "fr": "Un petit parc de Montréal"
+              }
+            },
+            {
+              "text": {
+                "en": "now sounds like the sea.",
+                "es": "ahora suena como el mar.",
+                "fr": "sonne maintenant comme la mer."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It sits beside busy, noisy roads.",
+                "es": "Está junto a calles con mucho tráfico.",
+                "fr": "Il se trouve au bord de rues bruyantes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Four speakers play waves and birdsong.",
+                "es": "Cuatro altavoces emiten olas y cantos de pájaros.",
+                "fr": "Quatre haut-parleurs diffusent des vagues et des chants d'oiseaux."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The sounds were recorded",
+                "es": "Los sonidos se grabaron",
+                "fr": "Les sons ont été enregistrés"
+              }
+            },
+            {
+              "text": {
+                "en": "on islands in eastern Canada.",
+                "es": "en unas islas del este de Canadá.",
+                "fr": "sur des îles de l'est du Canada."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Many people in the area",
+                "es": "Muchos vecinos del barrio",
+                "fr": "Beaucoup d'habitants du quartier"
+              }
+            },
+            {
+              "text": {
+                "en": "have family from those islands.",
+                "es": "tienen familia de esas islas.",
+                "fr": "ont de la famille originaire de ces îles."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It began as a test in 2023,",
+                "es": "Empezó como una prueba en 2023",
+                "fr": "Le projet a commencé comme un essai en 2023,"
+              }
+            },
+            {
+              "text": {
+                "en": "and now it is there to stay.",
+                "es": "y ahora se queda para siempre.",
+                "fr": "et il est désormais permanent."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Next year, local people",
+                "es": "El año que viene, los vecinos",
+                "fr": "L'an prochain, les habitants"
+              }
+            },
+            {
+              "text": {
+                "en": "will help choose new sounds.",
+                "es": "ayudarán a elegir nuevos sonidos.",
+                "fr": "aideront à choisir de nouveaux sons."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A company in the United States",
+                "es": "Una empresa de Estados Unidos",
+                "fr": "Une entreprise américaine"
+              }
+            },
+            {
+              "text": {
+                "en": "washes clothes without water.",
+                "es": "lava ropa sin agua.",
+                "fr": "lave des vêtements sans eau."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Its machines use carbon dioxide.",
+                "es": "Sus máquinas usan dióxido de carbono.",
+                "fr": "Ses machines utilisent du dioxyde de carbone."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Under high pressure, the gas becomes a liquid.",
+                "es": "Con mucha presión, el gas se vuelve líquido.",
+                "fr": "Sous haute pression, le gaz devient liquide."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "After the wash, it turns back into gas,",
+                "es": "Después del lavado, vuelve a ser gas,",
+                "fr": "Après le lavage, il redevient un gaz,"
+              }
+            },
+            {
+              "text": {
+                "en": "so the clothes come out dry.",
+                "es": "así que la ropa sale seca.",
+                "fr": "et les vêtements sortent secs."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A big load saves",
+                "es": "Una carga grande ahorra",
+                "fr": "Une grosse machine économise"
+              }
+            },
+            {
+              "text": {
+                "en": "over 1,000 litres of water.",
+                "es": "más de 1000 litros de agua.",
+                "fr": "plus de 1 000 litres d'eau."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Saturday.",
+                "es": "Que tengas un buen sábado.",
+                "fr": "Passez un bon samedi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

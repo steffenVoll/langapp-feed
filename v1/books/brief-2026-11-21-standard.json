@@ -1,0 +1,502 @@
+{
+  "id": "brief-2026-11-21-standard",
+  "title": {
+    "en": "Good news, 21 November",
+    "es": "Buenas noticias, 21 de noviembre",
+    "fr": "Bonnes nouvelles, 21 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals (Good News Network, 20 November 2026, from The Better India); Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise (Reasons to be Cheerful, 20 November 2026, from the Sounds in the City research team at McGill University); The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide (Reasons to be Cheerful, 19 November 2026, first published by Grist). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/; https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/; https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/; https://grist.org/science/carbon-dioxide-is-a-climate-problem-it-might-also-be-a-laundry-solution/",
+  "readingLevel": "Intermediate",
+  "blurb": {
+    "en": "Paper made from rhino dung in India, ocean sounds in a Montreal park, and clothes washed without water in Colorado.",
+    "es": "Papel hecho con excrementos de rinoceronte en la India, sonidos del mar en un parque de Montreal y ropa lavada sin agua en Colorado.",
+    "fr": "Du papier fait d'excréments de rhinocéros en Inde, des bruits de la mer dans un parc de Montréal et des vêtements lavés sans eau au Colorado."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning,",
+                "es": "Buenos días,",
+                "fr": "Bonjour,"
+              }
+            },
+            {
+              "text": {
+                "en": "and welcome to your good news",
+                "es": "y bienvenido a tus buenas noticias",
+                "fr": "et bienvenue dans vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Saturday 21 November.",
+                "es": "del sábado 21 de noviembre.",
+                "fr": "du samedi 21 novembre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Three stories today,",
+                "es": "Hoy, tres historias,",
+                "fr": "Trois histoires aujourd'hui,"
+              }
+            },
+            {
+              "text": {
+                "en": "from India, Canada and the United States.",
+                "es": "de la India, Canadá y Estados Unidos.",
+                "fr": "venues d'Inde, du Canada et des États-Unis."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In India, a family business turns rhino dung",
+                "es": "En la India, una empresa familiar convierte excrementos de rinoceronte",
+                "fr": "En Inde, une entreprise familiale transforme des excréments de rhinocéros"
+              }
+            },
+            {
+              "text": {
+                "en": "into paper that helps protect the animals.",
+                "es": "en papel que ayuda a proteger a estos animales.",
+                "fr": "en papier qui aide à protéger ces animaux."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The idea came from Mahesh Chandra Bora,",
+                "es": "La idea fue de Mahesh Chandra Bora,",
+                "fr": "L'idée vient de Mahesh Chandra Bora,"
+              }
+            },
+            {
+              "text": {
+                "en": "a retired mining engineer,",
+                "es": "un ingeniero de minas jubilado,",
+                "fr": "un ingénieur des mines à la retraite,"
+              }
+            },
+            {
+              "text": {
+                "en": "who read about dung paper made in Rajasthan.",
+                "es": "que leyó sobre un papel de excrementos hecho en Rajastán.",
+                "fr": "qui avait lu un article sur du papier d'excréments fabriqué au Rajasthan."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "If it worked there, with so few rhinos,",
+                "es": "Si funcionaba allí, con tan pocos rinocerontes,",
+                "fr": "Si cela marchait là-bas, avec si peu de rhinocéros,"
+              }
+            },
+            {
+              "text": {
+                "en": "it could work in Assam,",
+                "es": "podría funcionar en Assam,",
+                "fr": "cela pourrait marcher en Assam,"
+              }
+            },
+            {
+              "text": {
+                "en": "home to about 2,900 of them.",
+                "es": "donde viven unos 2900.",
+                "fr": "qui en compte environ 2 900."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "His daughter Nisha joined him,",
+                "es": "Su hija Nisha se unió a él,",
+                "fr": "Sa fille Nisha l'a rejoint,"
+              }
+            },
+            {
+              "text": {
+                "en": "and their company, Elrhino, began in 2014.",
+                "es": "y su empresa, Elrhino, nació en 2014.",
+                "fr": "et leur entreprise, Elrhino, est née en 2014."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Villagers near the national parks",
+                "es": "Los vecinos de los parques nacionales",
+                "fr": "Les villageois qui vivent près des parcs nationaux"
+              }
+            },
+            {
+              "text": {
+                "en": "collect dung from rhinos and elephants,",
+                "es": "recogen excrementos de rinocerontes y elefantes,",
+                "fr": "ramassent les excréments des rhinocéros et des éléphants,"
+              }
+            },
+            {
+              "text": {
+                "en": "which is washed, boiled and pressed into sheets.",
+                "es": "que se lavan, se hierven y se prensan en hojas.",
+                "fr": "qui sont lavés, bouillis puis pressés en feuilles."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Rhinos can damage crops and fences,",
+                "es": "Los rinocerontes pueden dañar cultivos y vallas,",
+                "fr": "Les rhinocéros peuvent abîmer les cultures et les clôtures,"
+              }
+            },
+            {
+              "text": {
+                "en": "so this income gives local people",
+                "es": "así que estos ingresos dan a la gente de la zona",
+                "fr": "alors ce revenu donne aux habitants"
+              }
+            },
+            {
+              "text": {
+                "en": "a reason to live alongside them.",
+                "es": "un motivo para convivir con ellos.",
+                "fr": "une raison de cohabiter avec eux."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In Montreal, a small park",
+                "es": "En Montreal, un pequeño parque",
+                "fr": "À Montréal, un petit parc"
+              }
+            },
+            {
+              "text": {
+                "en": "is using the sound of the sea",
+                "es": "usa el sonido del mar",
+                "fr": "utilise le bruit de la mer"
+              }
+            },
+            {
+              "text": {
+                "en": "to soften traffic noise.",
+                "es": "para suavizar el ruido del tráfico.",
+                "fr": "pour adoucir le bruit de la circulation."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Parc des Madelinots, in the Verdun area,",
+                "es": "El Parc des Madelinots, en el barrio de Verdun,",
+                "fr": "Le parc des Madelinots, dans l'arrondissement de Verdun,"
+              }
+            },
+            {
+              "text": {
+                "en": "has busy roads on two sides.",
+                "es": "tiene calles con mucho tráfico a dos lados.",
+                "fr": "est bordé de rues animées sur deux côtés."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Since 2023, four speakers there",
+                "es": "Desde 2023, cuatro altavoces",
+                "fr": "Depuis 2023, quatre haut-parleurs"
+              }
+            },
+            {
+              "text": {
+                "en": "have played the sounds of waves, birds and sand",
+                "es": "reproducen el sonido de las olas, los pájaros y la arena",
+                "fr": "y diffusent le bruit des vagues, des oiseaux et du sable"
+              }
+            },
+            {
+              "text": {
+                "en": "recorded on the Magdalen Islands.",
+                "es": "grabado en las islas de la Magdalena.",
+                "fr": "enregistré aux îles de la Madeleine."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Many islanders moved to Montreal last century,",
+                "es": "Muchos isleños se mudaron a Montreal el siglo pasado,",
+                "fr": "Beaucoup d'insulaires se sont installés à Montréal au siècle dernier,"
+              }
+            },
+            {
+              "text": {
+                "en": "and Verdun has their largest community",
+                "es": "y Verdun tiene su mayor comunidad",
+                "fr": "et Verdun abrite leur plus grande communauté"
+              }
+            },
+            {
+              "text": {
+                "en": "outside the islands.",
+                "es": "fuera de las islas.",
+                "fr": "hors des îles."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Researchers even turned down the boat horns,",
+                "es": "Los investigadores incluso bajaron las sirenas de los barcos,",
+                "fr": "Les chercheurs ont même baissé les cornes de brume des bateaux,"
+              }
+            },
+            {
+              "text": {
+                "en": "which people did not find relaxing.",
+                "es": "que a la gente no le resultaban relajantes.",
+                "fr": "que les gens ne trouvaient pas reposantes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The pilot is now permanent,",
+                "es": "La prueba piloto ya es permanente,",
+                "fr": "Le projet pilote est désormais permanent,"
+              }
+            },
+            {
+              "text": {
+                "en": "and next year residents will help",
+                "es": "y el año que viene los vecinos ayudarán",
+                "fr": "et l'an prochain, les habitants aideront"
+              }
+            },
+            {
+              "text": {
+                "en": "to choose new sounds.",
+                "es": "a elegir nuevos sonidos.",
+                "fr": "à choisir de nouveaux sons."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In Colorado, a company is washing clothes",
+                "es": "En Colorado, una empresa lava ropa",
+                "fr": "Au Colorado, une entreprise lave des vêtements"
+              }
+            },
+            {
+              "text": {
+                "en": "with carbon dioxide instead of water.",
+                "es": "con dióxido de carbono en lugar de agua.",
+                "fr": "avec du dioxyde de carbone au lieu d'eau."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Under high pressure, the gas turns liquid",
+                "es": "Con mucha presión, el gas se vuelve líquido",
+                "fr": "Sous haute pression, le gaz devient liquide"
+              }
+            },
+            {
+              "text": {
+                "en": "and cleans the fabric in a 45-minute cycle.",
+                "es": "y limpia el tejido en un ciclo de 45 minutos.",
+                "fr": "et nettoie le tissu en un cycle de 45 minutes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "When the pressure is released,",
+                "es": "Cuando se libera la presión,",
+                "fr": "Quand la pression retombe,"
+              }
+            },
+            {
+              "text": {
+                "en": "it turns back into gas,",
+                "es": "vuelve a ser gas,",
+                "fr": "il redevient gazeux,"
+              }
+            },
+            {
+              "text": {
+                "en": "so the clothes come out already dry.",
+                "es": "así que la ropa sale ya seca.",
+                "fr": "et les vêtements ressortent déjà secs."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "More than 90 percent of the gas",
+                "es": "Más del 90 % del gas",
+                "fr": "Plus de 90 % du gaz"
+              }
+            },
+            {
+              "text": {
+                "en": "is captured and used again.",
+                "es": "se recupera y se vuelve a usar.",
+                "fr": "est récupéré et réutilisé."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The company, Tersus Solutions,",
+                "es": "La empresa, Tersus Solutions,",
+                "fr": "L'entreprise, Tersus Solutions,"
+              }
+            },
+            {
+              "text": {
+                "en": "says its larger machines save",
+                "es": "dice que sus máquinas más grandes ahorran",
+                "fr": "affirme que ses plus grandes machines économisent"
+              }
+            },
+            {
+              "text": {
+                "en": "over 1,000 litres of water a load.",
+                "es": "más de 1000 litros de agua por carga.",
+                "fr": "plus de 1 000 litres d'eau par lavage."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In tests on firefighters' kit,",
+                "es": "En pruebas con equipos de bomberos,",
+                "fr": "Lors d'essais sur des tenues de pompiers,"
+              }
+            },
+            {
+              "text": {
+                "en": "it removed more than 95 percent",
+                "es": "eliminó más del 95 %",
+                "fr": "elle a éliminé plus de 95 %"
+              }
+            },
+            {
+              "text": {
+                "en": "of harmful chemicals.",
+                "es": "de las sustancias nocivas.",
+                "fr": "des substances nocives."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Thanks for listening,",
+                "es": "Gracias por escuchar,",
+                "fr": "Merci de votre écoute,"
+              }
+            },
+            {
+              "text": {
+                "en": "and have a good Saturday.",
+                "es": "y que tengas un buen sábado.",
+                "fr": "et bon samedi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
