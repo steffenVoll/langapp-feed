@@ -1,0 +1,516 @@
+{
+  "id": "brief-2026-11-22-standard",
+  "title": {
+    "en": "Good news, 22 November",
+    "es": "Buenas noticias, 22 de noviembre",
+    "fr": "Bonnes nouvelles, 22 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion (Good News Network, 21 November 2026, from a study in Molecular Ecology Resources); Pub Owner Spends Thousands on Stunning Holiday Display, All to Cheer Up Depressed Locals (Good News Network, 21 November 2026, from the agency SWNS); First Human Trial to Slash Bad Cholesterol by 50% With One Injection of CRISPR Gene-Editing Therapy (Good News Network, 21 November 2026, from the Cleveland Clinic and a study in the New England Journal of Medicine). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/; https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70219; https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/; https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/; https://www.nejm.org/doi/abs/10.1056/NEJMc2609825",
+  "readingLevel": "Intermediate",
+  "blurb": {
+    "en": "Whale genes read from breath in Canada, a pub full of Christmas lights in England, and a single treatment that lowers bad cholesterol.",
+    "es": "Genes de ballena leídos en un soplo en Canadá, un pub lleno de luces de Navidad en Inglaterra y un tratamiento único que baja el colesterol malo.",
+    "fr": "Des gènes de baleine lus dans un souffle au Canada, un pub couvert de lumières de Noël en Angleterre et un traitement unique qui fait baisser le mauvais cholestérol."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning,",
+                "es": "Buenos días,",
+                "fr": "Bonjour,"
+              }
+            },
+            {
+              "text": {
+                "en": "and welcome to your good news",
+                "es": "y bienvenido a tus buenas noticias",
+                "fr": "et bienvenue dans vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Sunday 22 November.",
+                "es": "del domingo 22 de noviembre.",
+                "fr": "du dimanche 22 novembre."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Three stories today,",
+                "es": "Hoy, tres historias,",
+                "fr": "Trois histoires aujourd'hui,"
+              }
+            },
+            {
+              "text": {
+                "en": "from Canada, England and the United States.",
+                "es": "de Canadá, Inglaterra y Estados Unidos.",
+                "fr": "venues du Canada, d'Angleterre et des États-Unis."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "For the first time, scientists have sequenced",
+                "es": "Por primera vez, unos científicos han secuenciado",
+                "fr": "Pour la première fois, des scientifiques ont séquencé"
+              }
+            },
+            {
+              "text": {
+                "en": "a whole whale genome",
+                "es": "el genoma entero de una ballena",
+                "fr": "le génome entier d'une baleine"
+              }
+            },
+            {
+              "text": {
+                "en": "from breath alone.",
+                "es": "solo a partir de su soplo.",
+                "fr": "à partir de son seul souffle."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "An international team,",
+                "es": "Un equipo internacional,",
+                "fr": "Une équipe internationale,"
+              }
+            },
+            {
+              "text": {
+                "en": "including the University of St Andrews,",
+                "es": "en el que está la Universidad de St Andrews,",
+                "fr": "dont fait partie l'université de St Andrews,"
+              }
+            },
+            {
+              "text": {
+                "en": "studied humpbacks in the fjords",
+                "es": "estudió ballenas jorobadas en los fiordos",
+                "fr": "a étudié des baleines à bosse dans les fjords"
+              }
+            },
+            {
+              "text": {
+                "en": "of northern British Columbia.",
+                "es": "del norte de la Columbia Británica.",
+                "fr": "du nord de la Colombie-Britannique."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They fixed sterile dishes to a small drone",
+                "es": "Fijaron placas estériles a un pequeño dron",
+                "fr": "Elle a fixé des boîtes stériles sur un petit drone"
+              }
+            },
+            {
+              "text": {
+                "en": "and flew it through the spray",
+                "es": "y lo hicieron volar a través del chorro",
+                "fr": "et l'a fait voler à travers le jet"
+              }
+            },
+            {
+              "text": {
+                "en": "as a whale breathed out.",
+                "es": "cuando una ballena soplaba.",
+                "fr": "quand une baleine soufflait."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They collected 58 samples from 26 whales,",
+                "es": "Recogieron 58 muestras de 26 ballenas,",
+                "fr": "Elle a recueilli 58 échantillons sur 26 baleines,"
+              }
+            },
+            {
+              "text": {
+                "en": "and about 84 percent of the DNA",
+                "es": "y alrededor del 84 % del ADN",
+                "fr": "et environ 84 % de l'ADN"
+              }
+            },
+            {
+              "text": {
+                "en": "came from the whales themselves.",
+                "es": "era de las propias ballenas.",
+                "fr": "venait des baleines elles-mêmes."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Until now, such work usually meant",
+                "es": "Hasta ahora, este trabajo solía implicar",
+                "fr": "Jusqu'ici, ce travail supposait souvent"
+              }
+            },
+            {
+              "text": {
+                "en": "firing darts from a boat,",
+                "es": "disparar dardos desde un barco,",
+                "fr": "de tirer des fléchettes depuis un bateau,"
+              }
+            },
+            {
+              "text": {
+                "en": "which disturbs the animals.",
+                "es": "algo que molesta a los animales.",
+                "fr": "ce qui dérange les animaux."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Next, the team wants to find out",
+                "es": "Ahora el equipo quiere averiguar",
+                "fr": "L'équipe veut maintenant découvrir"
+              }
+            },
+            {
+              "text": {
+                "en": "whether whales that feed together",
+                "es": "si las ballenas que se alimentan juntas",
+                "fr": "si les baleines qui se nourrissent ensemble"
+              }
+            },
+            {
+              "text": {
+                "en": "are family or long-term friends.",
+                "es": "son familia o amigas desde hace tiempo.",
+                "fr": "sont parentes ou amies de longue date."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In England, a pub owner has spent a lot",
+                "es": "En Inglaterra, el dueño de un pub ha gastado mucho",
+                "fr": "En Angleterre, le patron d'un pub a beaucoup dépensé"
+              }
+            },
+            {
+              "text": {
+                "en": "on a Christmas display to cheer up his town.",
+                "es": "en adornos de Navidad para alegrar a su pueblo.",
+                "fr": "en décorations de Noël pour égayer sa ville."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Christian Ogley runs Blind Jack's",
+                "es": "Christian Ogley lleva el Blind Jack's,",
+                "fr": "Christian Ogley tient le Blind Jack's,"
+              }
+            },
+            {
+              "text": {
+                "en": "in the historic town of Knaresborough.",
+                "es": "en la localidad histórica de Knaresborough.",
+                "fr": "dans la ville historique de Knaresborough."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "This year has been hard for local people, he says,",
+                "es": "Dice que este año ha sido difícil para los vecinos",
+                "fr": "Il dit que l'année a été dure pour les habitants"
+              }
+            },
+            {
+              "text": {
+                "en": "and he wanted to make them smile.",
+                "es": "y que quería hacerlos sonreír.",
+                "fr": "et qu'il voulait les faire sourire."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Inspired by displays he saw",
+                "es": "Inspirado por los adornos que vio",
+                "fr": "Inspiré par les décorations qu'il a vues"
+              }
+            },
+            {
+              "text": {
+                "en": "in New York and Ireland,",
+                "es": "en Nueva York e Irlanda,",
+                "fr": "à New York et en Irlande,"
+              }
+            },
+            {
+              "text": {
+                "en": "he began sketching ideas in January",
+                "es": "empezó a dibujar ideas en enero",
+                "fr": "il a commencé à dessiner ses idées en janvier"
+              }
+            },
+            {
+              "text": {
+                "en": "on the back of beer mats.",
+                "es": "en el reverso de unos posavasos.",
+                "fr": "au dos de sous-bocks."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Staff and regulars helped him build it,",
+                "es": "Empleados y clientes le ayudaron a montarlo todo,",
+                "fr": "Employés et habitués l'ont aidé à tout monter,"
+              }
+            },
+            {
+              "text": {
+                "en": "with a tree five metres tall",
+                "es": "con un árbol de cinco metros de alto",
+                "fr": "avec un sapin de cinq mètres de haut"
+              }
+            },
+            {
+              "text": {
+                "en": "and more than 10,000 lights.",
+                "es": "y más de 10 000 luces.",
+                "fr": "et plus de 10 000 lumières."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "He hopes it will become a tradition.",
+                "es": "Espera que se convierta en una tradición.",
+                "fr": "Il espère que cela deviendra une tradition."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A single treatment has halved bad cholesterol",
+                "es": "Un solo tratamiento ha reducido a la mitad el colesterol malo",
+                "fr": "Un seul traitement a réduit de moitié le mauvais cholestérol"
+              }
+            },
+            {
+              "text": {
+                "en": "in an early trial,",
+                "es": "en un ensayo inicial,",
+                "fr": "dans un premier essai,"
+              }
+            },
+            {
+              "text": {
+                "en": "and the effect lasted a year.",
+                "es": "y el efecto duró un año.",
+                "fr": "et l'effet a duré un an."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The study, reported by the Cleveland Clinic in Ohio,",
+                "es": "El estudio, presentado por la Cleveland Clinic de Ohio,",
+                "fr": "L'étude, présentée par la Cleveland Clinic dans l'Ohio,"
+              }
+            },
+            {
+              "text": {
+                "en": "involved 15 patients",
+                "es": "contó con 15 pacientes",
+                "fr": "a porté sur 15 patients"
+              }
+            },
+            {
+              "text": {
+                "en": "whose condition had resisted medicine.",
+                "es": "cuyo problema había resistido a los medicamentos.",
+                "fr": "dont le trouble avait résisté aux médicaments."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The treatment uses the gene-editing tool CRISPR",
+                "es": "El tratamiento usa la herramienta de edición genética CRISPR",
+                "fr": "Le traitement utilise l'outil d'édition génétique CRISPR"
+              }
+            },
+            {
+              "text": {
+                "en": "to switch off a gene in the liver",
+                "es": "para apagar un gen del hígado",
+                "fr": "pour désactiver un gène du foie"
+              }
+            },
+            {
+              "text": {
+                "en": "linked to fats in the blood.",
+                "es": "relacionado con las grasas de la sangre.",
+                "fr": "lié aux graisses dans le sang."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "After twelve months, patients on the highest dose",
+                "es": "Tras doce meses, los pacientes con la dosis más alta",
+                "fr": "Après douze mois, les patients ayant reçu la plus forte dose"
+              }
+            },
+            {
+              "text": {
+                "en": "had LDL, or bad cholesterol,",
+                "es": "tenían el LDL, o colesterol malo,",
+                "fr": "avaient un taux de LDL, ou mauvais cholestérol,"
+              }
+            },
+            {
+              "text": {
+                "en": "more than 52 percent lower than before.",
+                "es": "más de un 52 % más bajo que antes.",
+                "fr": "inférieur de plus de 52 % à celui d'avant."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "There were no serious side effects",
+                "es": "No hubo efectos secundarios graves",
+                "fr": "Aucun effet secondaire grave"
+              }
+            },
+            {
+              "text": {
+                "en": "linked to the therapy.",
+                "es": "relacionados con la terapia.",
+                "fr": "n'a été lié à la thérapie."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Researchers now hope to test it",
+                "es": "Los investigadores esperan ahora probarla",
+                "fr": "Les chercheurs espèrent maintenant la tester"
+              }
+            },
+            {
+              "text": {
+                "en": "in more people.",
+                "es": "en más personas.",
+                "fr": "chez davantage de personnes."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Thanks for listening,",
+                "es": "Gracias por escuchar,",
+                "fr": "Merci de votre écoute,"
+              }
+            },
+            {
+              "text": {
+                "en": "and have a good Sunday.",
+                "es": "y que tengas un buen domingo.",
+                "fr": "et bon dimanche."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

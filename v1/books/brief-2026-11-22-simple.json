@@ -1,0 +1,367 @@
+{
+  "id": "brief-2026-11-22-simple",
+  "title": {
+    "en": "Good news, 22 November",
+    "es": "Buenas noticias, 22 de noviembre",
+    "fr": "Bonnes nouvelles, 22 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion (Good News Network, 21 November 2026, from a study in Molecular Ecology Resources); Pub Owner Spends Thousands on Stunning Holiday Display, All to Cheer Up Depressed Locals (Good News Network, 21 November 2026, from the agency SWNS); First Human Trial to Slash Bad Cholesterol by 50% With One Injection of CRISPR Gene-Editing Therapy (Good News Network, 21 November 2026, from the Cleveland Clinic and a study in the New England Journal of Medicine). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/; https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70219; https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/; https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/; https://www.nejm.org/doi/abs/10.1056/NEJMc2609825",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "Whale genes read from breath in Canada, a pub full of Christmas lights in England, and a single treatment that lowers bad cholesterol.",
+    "es": "Genes de ballena leídos en un soplo en Canadá, un pub lleno de luces de Navidad en Inglaterra y un tratamiento único que baja el colesterol malo.",
+    "fr": "Des gènes de baleine lus dans un souffle au Canada, un pub couvert de lumières de Noël en Angleterre et un traitement unique qui fait baisser le mauvais cholestérol."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Sunday 22 November.",
+                "es": "del domingo 22 de noviembre.",
+                "fr": "du dimanche 22 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Scientists have read a whale's genes",
+                "es": "Unos científicos han leído los genes de una ballena",
+                "fr": "Des scientifiques ont lu les gènes d'une baleine"
+              }
+            },
+            {
+              "text": {
+                "en": "from its breath alone.",
+                "es": "solo a partir de su soplo.",
+                "fr": "à partir de son seul souffle."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They worked with humpback whales in Canada.",
+                "es": "Trabajaron con ballenas jorobadas en Canadá.",
+                "fr": "Ils ont travaillé avec des baleines à bosse au Canada."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A small drone carried clean dishes.",
+                "es": "Un pequeño dron llevaba unas placas limpias.",
+                "fr": "Un petit drone portait des boîtes propres."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It flew through each whale's breath.",
+                "es": "Volaba a través del soplo de cada ballena.",
+                "fr": "Il traversait le souffle de chaque baleine."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Nobody had to touch the whales.",
+                "es": "Nadie tuvo que tocar a las ballenas.",
+                "fr": "Personne n'a eu à toucher les baleines."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The team tested 26 whales this way.",
+                "es": "El equipo estudió así a 26 ballenas.",
+                "fr": "L'équipe a étudié 26 baleines de cette façon."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Next, they want to learn",
+                "es": "Ahora quieren saber",
+                "fr": "Maintenant, ils veulent savoir"
+              }
+            },
+            {
+              "text": {
+                "en": "which whales are family",
+                "es": "qué ballenas son familia",
+                "fr": "quelles baleines sont de la même famille"
+              }
+            },
+            {
+              "text": {
+                "en": "and which are friends.",
+                "es": "y cuáles son amigas.",
+                "fr": "et lesquelles sont amies."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "An English pub owner is cheering up his town",
+                "es": "El dueño de un pub inglés alegra a su pueblo",
+                "fr": "Le patron d'un pub anglais égaie sa ville"
+              }
+            },
+            {
+              "text": {
+                "en": "with Christmas lights.",
+                "es": "con luces de Navidad.",
+                "fr": "avec des lumières de Noël."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Christian Ogley runs a pub in Knaresborough.",
+                "es": "Christian Ogley lleva un pub en Knaresborough.",
+                "fr": "Christian Ogley tient un pub à Knaresborough."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Life there has been hard this year.",
+                "es": "Allí la vida ha sido difícil este año.",
+                "fr": "La vie y a été difficile cette année."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "So he decorated his pub",
+                "es": "Así que decoró su pub",
+                "fr": "Alors il a décoré son pub"
+              }
+            },
+            {
+              "text": {
+                "en": "with over 10,000 lights.",
+                "es": "con más de 10 000 luces.",
+                "fr": "avec plus de 10 000 lumières."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "There is a Christmas tree",
+                "es": "Hay un árbol de Navidad",
+                "fr": "Il y a un sapin de Noël"
+              }
+            },
+            {
+              "text": {
+                "en": "five metres tall.",
+                "es": "de cinco metros de alto.",
+                "fr": "de cinq mètres de haut."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Staff and regular customers helped him.",
+                "es": "Le ayudaron sus empleados y sus clientes habituales.",
+                "fr": "Ses employés et des clients fidèles l'ont aidé."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "He hopes it will become a tradition.",
+                "es": "Espera que se convierta en una tradición.",
+                "fr": "Il espère que cela deviendra une tradition."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "One treatment has halved bad cholesterol",
+                "es": "Un solo tratamiento ha reducido a la mitad el colesterol malo",
+                "fr": "Un seul traitement a réduit de moitié le mauvais cholestérol"
+              }
+            },
+            {
+              "text": {
+                "en": "in a small trial.",
+                "es": "en un pequeño ensayo.",
+                "fr": "dans un petit essai."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The news comes from a clinic in Ohio.",
+                "es": "La noticia viene de una clínica de Ohio.",
+                "fr": "La nouvelle vient d'une clinique de l'Ohio."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Fifteen patients took part.",
+                "es": "Participaron quince pacientes.",
+                "fr": "Quinze patients y ont participé."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Each had the treatment only once.",
+                "es": "Cada uno recibió el tratamiento una sola vez.",
+                "fr": "Chacun n'a reçu le traitement qu'une seule fois."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It switches off a gene in the liver.",
+                "es": "El tratamiento apaga un gen del hígado.",
+                "fr": "Le traitement désactive un gène du foie."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A year later,",
+                "es": "Un año después,",
+                "fr": "Un an plus tard,"
+              }
+            },
+            {
+              "text": {
+                "en": "the highest dose was still working.",
+                "es": "la dosis más alta seguía funcionando.",
+                "fr": "la dose la plus forte agissait encore."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The treatment caused no serious side effects.",
+                "es": "El tratamiento no causó efectos secundarios graves.",
+                "fr": "Le traitement n'a causé aucun effet secondaire grave."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Sunday.",
+                "es": "Que tengas un buen domingo.",
+                "fr": "Passez un bon dimanche."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
