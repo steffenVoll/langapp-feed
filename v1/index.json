@@ -2,6 +2,14 @@
  "format": 1,
  "briefs": [
   {
+   "id": "brief-2026-11-23-standard",
+   "path": "books/brief-2026-11-23-standard.json"
+  },
+  {
+   "id": "brief-2026-11-23-simple",
+   "path": "books/brief-2026-11-23-simple.json"
+  },
+  {
    "id": "brief-2026-11-22-standard",
    "path": "books/brief-2026-11-22-standard.json"
   },
@@ -108,26 +116,6 @@
     "fr"
    ],
    "audioRev": "738214094643"
-  },
-  {
-   "id": "brief-2026-11-15-standard",
-   "path": "books/brief-2026-11-15-standard.json",
-   "audio": [
-    "en",
-    "es",
-    "fr"
-   ],
-   "audioRev": "d46c27d3088e"
-  },
-  {
-   "id": "brief-2026-11-15-simple",
-   "path": "books/brief-2026-11-15-simple.json",
-   "audio": [
-    "en",
-    "es",
-    "fr"
-   ],
-   "audioRev": "9deb31eab5c2"
   }
  ]
 }

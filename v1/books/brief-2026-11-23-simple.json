@@ -1,0 +1,362 @@
+{
+  "id": "brief-2026-11-23-simple",
+  "title": {
+    "en": "Good news, 23 November",
+    "es": "Buenas noticias, 23 de noviembre",
+    "fr": "Bonnes nouvelles, 23 novembre"
+  },
+  "author": "Good news brief",
+  "sourceLanguage": "en",
+  "attribution": "Written for this app from news reports: The City That Kicked Out Cars Before It Was Cool (Reasons to be Cheerful, 23 November 2026, from figures published by the city of Pontevedra); ‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved (Good News Network, 22 November 2026, from a study led by Queen Mary University of London in the New England Journal of Medicine); Students Fighting to Save Poached Plant Species That Only Exists Near Their Campus (Good News Network, 18 November 2026, first reported by CBS News Bay Area). Spanish and French translations written for this app.",
+  "license": "Original text written for this project from the facts in the cited news reports; no wording copied. Spanish and French translations written for this project. Source notes: https://reasonstobecheerful.world/pontevedra-car-free-city/; https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/; https://www.nejm.org/doi/10.1056/NEJMc2611265; https://www.qmul.ac.uk/news/latest-news/2026/medicine-and-dentistry/fmd/new-treatment-may-cure-common-hormonal-cause-of-high-blood-pressure--.html; https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/; https://www.cbsnews.com/sanfrancisco/news/santa-clara-valley-dudleya-liveforever-rescue-endangered-plant-project-earth/",
+  "readingLevel": "Beginner",
+  "blurb": {
+    "en": "A Spanish city that pushed out cars, a drug that may cure one kind of high blood pressure, and students saving a rare plant in California.",
+    "es": "Una ciudad española que echó a los coches, un fármaco que podría curar un tipo de tensión alta y unos estudiantes que salvan una planta rara en California.",
+    "fr": "Une ville espagnole qui a chassé les voitures, un médicament qui pourrait guérir une forme d'hypertension et des étudiants qui sauvent une plante rare en Californie."
+  },
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Good morning.",
+                "es": "Buenos días.",
+                "fr": "Bonjour."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Here is your good news",
+                "es": "Aquí tienes tus buenas noticias",
+                "fr": "Voici vos bonnes nouvelles"
+              }
+            },
+            {
+              "text": {
+                "en": "for Monday 23 November.",
+                "es": "del lunes 23 de noviembre.",
+                "fr": "du lundi 23 novembre."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A Spanish city has nearly emptied its centre",
+                "es": "Una ciudad española casi ha vaciado su centro",
+                "fr": "Une ville espagnole a presque vidé son centre"
+              }
+            },
+            {
+              "text": {
+                "en": "of cars.",
+                "es": "de coches.",
+                "fr": "de ses voitures."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The city is called Pontevedra.",
+                "es": "La ciudad se llama Pontevedra.",
+                "fr": "La ville s'appelle Pontevedra."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "In 1999, a new mayor",
+                "es": "En 1999, un nuevo alcalde",
+                "fr": "En 1999, un nouveau maire"
+              }
+            },
+            {
+              "text": {
+                "en": "closed many streets to cars.",
+                "es": "cerró muchas calles a los coches.",
+                "fr": "a fermé de nombreuses rues aux voitures."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Car trips in the centre",
+                "es": "Los viajes en coche por el centro",
+                "fr": "Les trajets en voiture dans le centre"
+              }
+            },
+            {
+              "text": {
+                "en": "have fallen by 97 per cent.",
+                "es": "han bajado un 97 %.",
+                "fr": "ont baissé de 97 %."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "No one has died on its roads since 2011.",
+                "es": "Nadie ha muerto en sus calles desde 2011.",
+                "fr": "Personne n'est mort sur ses routes depuis 2011."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Most young children walk to school alone.",
+                "es": "La mayoría de los niños pequeños van solos al colegio.",
+                "fr": "La plupart des jeunes enfants vont seuls à l'école."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A new drug may cure",
+                "es": "Un nuevo fármaco podría curar",
+                "fr": "Un nouveau médicament pourrait guérir"
+              }
+            },
+            {
+              "text": {
+                "en": "one kind of high blood pressure.",
+                "es": "un tipo de tensión alta.",
+                "fr": "une forme d'hypertension."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Some people make too much",
+                "es": "Algunas personas producen en exceso",
+                "fr": "Certaines personnes produisent en excès"
+              }
+            },
+            {
+              "text": {
+                "en": "of a hormone called aldosterone.",
+                "es": "una hormona llamada aldosterona.",
+                "fr": "une hormone appelée aldostérone."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A team from London tested",
+                "es": "Un equipo de Londres probó",
+                "fr": "Une équipe de Londres a testé"
+              }
+            },
+            {
+              "text": {
+                "en": "a drug called baxdrostat.",
+                "es": "un fármaco llamado baxdrostat.",
+                "fr": "un médicament appelé baxdrostat."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Fourteen patients took it",
+                "es": "Catorce pacientes lo tomaron",
+                "fr": "Quatorze patients l'ont pris"
+              }
+            },
+            {
+              "text": {
+                "en": "for up to a year.",
+                "es": "durante un año como máximo.",
+                "fr": "pendant un an au maximum."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Afterwards, some of them",
+                "es": "Después, algunos",
+                "fr": "Ensuite, certains"
+              }
+            },
+            {
+              "text": {
+                "en": "had normal blood pressure without any pills.",
+                "es": "tenían la tensión normal sin ninguna pastilla.",
+                "fr": "avaient une tension normale sans aucun comprimé."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A larger study is now under way.",
+                "es": "Ahora está en marcha un estudio más grande.",
+                "fr": "Une étude plus large est maintenant en cours."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Students in California",
+                "es": "Unos estudiantes de California",
+                "fr": "Des étudiants de Californie"
+              }
+            },
+            {
+              "text": {
+                "en": "are working to save a rare plant.",
+                "es": "trabajan para salvar una planta rara.",
+                "fr": "travaillent à sauver une plante rare."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "It grows in just one valley",
+                "es": "Solo crece en un valle",
+                "fr": "Elle pousse dans une seule vallée"
+              }
+            },
+            {
+              "text": {
+                "en": "near their university.",
+                "es": "cerca de su universidad.",
+                "fr": "près de leur université."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Thieves often dig it up.",
+                "es": "Los ladrones la arrancan a menudo.",
+                "fr": "Des voleurs l'arrachent souvent."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "The students collect its tiny seeds.",
+                "es": "Los estudiantes recogen sus diminutas semillas.",
+                "fr": "Les étudiants récoltent ses minuscules graines."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "They grow new plants",
+                "es": "Cultivan plantas nuevas",
+                "fr": "Ils font pousser de nouvelles plantes"
+              }
+            },
+            {
+              "text": {
+                "en": "to return to the wild one day.",
+                "es": "para devolverlas algún día a la naturaleza.",
+                "fr": "pour les remettre un jour dans la nature."
+              }
+            }
+          ]
+        },
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "A professor has also bred colourful types",
+                "es": "Un profesor también ha creado variedades de colores",
+                "fr": "Un professeur a aussi créé des variétés colorées"
+              }
+            },
+            {
+              "text": {
+                "en": "for garden shops.",
+                "es": "para los viveros.",
+                "fr": "pour les jardineries."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "fragments": [
+            {
+              "text": {
+                "en": "Have a lovely Monday.",
+                "es": "Que tengas un buen lunes.",
+                "fr": "Passez un bon lundi."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
